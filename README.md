@@ -13,7 +13,7 @@ These are the ReQL queries to insert the test data into your RethinkDB database.
 r.tableCreate('countries')
 // Insert data from JSON files
 r.table('countries')
- .insert(r.json(r.http('https://raw.githubusercontent.com/thejsj/sample-data/master/data/countries.json')))
+ .insert(r.json(r.http('https://raw.githubusercontent.com/thejsj/sample-data/master/countries.json')))
 ```
 
 *Oscar Winning Films*
@@ -22,7 +22,7 @@ r.table('countries')
 r.tableCreate('films')
 // Insert data from JSON files
 r.table('films')
- .insert(r.json(r.http('https://raw.githubusercontent.com/thejsj/sample-data/master/data/oscar-winning-films.json')))
+ .insert(r.json(r.http('https://raw.githubusercontent.com/thejsj/sample-data/master/oscar-winning-films.json')))
 ```
 *World's most populated urban areas*
 
@@ -31,7 +31,7 @@ r.table('films')
 r.tableCreate('urban_areas')
 // Insert data from JSON files
 r.table('urban_areas')
- .insert(r.json(r.http('https://raw.githubusercontent.com/thejsj/sample-data/master/data/urban-areas.json')))
+ .insert(r.json(r.http('https://raw.githubusercontent.com/thejsj/sample-data/master/urban-areas.json')))
 ```
 
 ## Generating
