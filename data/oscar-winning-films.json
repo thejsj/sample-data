@@ -1,0 +1,7436 @@
+[
+  {
+    "awards": 1,
+    "name": "Citizenfour",
+    "nominations": 1,
+    "year": 2014
+  },
+  {
+    "awards": 1,
+    "name": "Crisis Hotline: Veterans Press 1",
+    "nominations": 1,
+    "year": 2014
+  },
+  {
+    "awards": 1,
+    "name": "Feast",
+    "nominations": 1,
+    "year": 2014
+  },
+  {
+    "awards": 4,
+    "name": "The Grand Budapest Hotel",
+    "nominations": 9,
+    "year": 2014
+  },
+  {
+    "awards": 1,
+    "name": "Ida",
+    "nominations": 2,
+    "year": 2014
+  },
+  {
+    "awards": 1,
+    "name": "The Imitation Game",
+    "nominations": 8,
+    "year": 2014
+  },
+  {
+    "awards": 1,
+    "name": "Interstellar",
+    "nominations": 5,
+    "year": 2014
+  },
+  {
+    "awards": 1,
+    "name": "The Phone Call",
+    "nominations": 1,
+    "year": 2014
+  },
+  {
+    "awards": 1,
+    "name": "Selma",
+    "nominations": 2,
+    "year": 2014
+  },
+  {
+    "awards": 1,
+    "name": "Still Alice",
+    "nominations": 1,
+    "year": 2014
+  },
+  {
+    "awards": 1,
+    "name": "The Theory of Everything",
+    "nominations": 5,
+    "year": 2014
+  },
+  {
+    "awards": 3,
+    "name": "Whiplash",
+    "nominations": 5,
+    "year": 2014
+  },
+  {
+    "awards": 0,
+    "name": "7 Faces of Dr. Lao",
+    "nominations": 1,
+    "year": 1964
+  },
+  {
+    "awards": 3,
+    "name": "7th Heaven",
+    "nominations": 5,
+    "year": 1927
+  },
+  {
+    "awards": 1,
+    "name": "8 Mile",
+    "nominations": 1,
+    "year": 2002
+  },
+  {
+    "awards": 3,
+    "name": "12 Years a Slave",
+    "nominations": 9,
+    "year": 2013
+  },
+  {
+    "awards": 1,
+    "name": "20 Feet from Stardom",
+    "nominations": 1,
+    "year": 2013
+  },
+  {
+    "awards": 1,
+    "name": "2001: A Space Odyssey",
+    "nominations": 4,
+    "year": 1968
+  },
+  {
+    "awards": 2,
+    "name": "20,000 Leagues Under the Sea",
+    "nominations": 3,
+    "year": 1954
+  },
+  {
+    "awards": 1,
+    "name": "Abyss, TheThe Abyss",
+    "nominations": 4,
+    "year": 1989
+  },
+  {
+    "awards": 1,
+    "name": "Accidental Tourist, TheThe Accidental Tourist",
+    "nominations": 4,
+    "year": 1988
+  },
+  {
+    "awards": 1,
+    "name": "Accountant, TheThe Accountant",
+    "nominations": 1,
+    "year": 2001
+  },
+  {
+    "awards": 1,
+    "name": "Accused, TheThe Accused",
+    "nominations": 1,
+    "year": 1988
+  },
+  {
+    "awards": 1,
+    "name": "Adaptation",
+    "nominations": 4,
+    "year": 2002
+  },
+  {
+    "awards": 1,
+    "name": "Adventures of Don Juan, TheThe Adventures of Don Juan",
+    "nominations": 2,
+    "year": 1949
+  },
+  {
+    "awards": 1,
+    "name": "Adventures of Priscilla, Queen of the Desert, TheThe Adventures of Priscilla, Queen of the Desert",
+    "nominations": 1,
+    "year": 1994
+  },
+  {
+    "awards": 3,
+    "name": "Adventures of Robin Hood, TheThe Adventures of Robin Hood",
+    "nominations": 4,
+    "year": 1938
+  },
+  {
+    "awards": 1,
+    "name": "Affliction",
+    "nominations": 2,
+    "year": 1998
+  },
+  {
+    "awards": 1,
+    "name": "African Queen, TheThe African Queen",
+    "nominations": 4,
+    "year": 1951
+  },
+  {
+    "awards": 1,
+    "name": "Age of Innocence, TheThe Age of Innocence",
+    "nominations": 5,
+    "year": 1993
+  },
+  {
+    "awards": 1,
+    "name": "Air Force",
+    "nominations": 4,
+    "year": 1943
+  },
+  {
+    "awards": 1,
+    "name": "Airport",
+    "nominations": 10,
+    "year": 1970
+  },
+  {
+    "awards": 2,
+    "name": "Aladdin",
+    "nominations": 5,
+    "year": 1992
+  },
+  {
+    "awards": 1,
+    "name": "Alamo, TheThe Alamo",
+    "nominations": 7,
+    "year": 1960
+  },
+  {
+    "awards": 1,
+    "name": "Alaskan Eskimo, TheThe Alaskan Eskimo",
+    "nominations": 1,
+    "year": 1953
+  },
+  {
+    "awards": 1,
+    "name": "Albert Schweitzer",
+    "nominations": 1,
+    "year": 1957
+  },
+  {
+    "awards": 1,
+    "name": "Alexander's Ragtime Band",
+    "nominations": 6,
+    "year": 1938
+  },
+  {
+    "awards": 1,
+    "name": "Alice Doesn't Live Here Anymore",
+    "nominations": 3,
+    "year": 1974
+  },
+  {
+    "awards": 2,
+    "name": "Alice in Wonderland",
+    "nominations": 3,
+    "year": 2010
+  },
+  {
+    "awards": 1,
+    "name": "Alien",
+    "nominations": 2,
+    "year": 1979
+  },
+  {
+    "awards": 2,
+    "name": "Aliens",
+    "nominations": 7,
+    "year": 1986
+  },
+  {
+    "awards": 6,
+    "name": "All About Eve",
+    "nominations": 14,
+    "year": 1950
+  },
+  {
+    "awards": 1,
+    "name": "All About My Mother (Todo sobre mi madre)",
+    "nominations": 1,
+    "year": 1999
+  },
+  {
+    "awards": 2,
+    "name": "All Quiet on the Western Front",
+    "nominations": 4,
+    "year": 1929
+  },
+  {
+    "awards": 4,
+    "name": "All That Jazz",
+    "nominations": 9,
+    "year": 1979
+  },
+  {
+    "awards": 1,
+    "name": "All That Money Can Buy (The Devil and Daniel Webster)",
+    "nominations": 2,
+    "year": 1941
+  },
+  {
+    "awards": 3,
+    "name": "All the King's Men",
+    "nominations": 7,
+    "year": 1949
+  },
+  {
+    "awards": 4,
+    "name": "All the President's Men",
+    "nominations": 8,
+    "year": 1976
+  },
+  {
+    "awards": 1,
+    "name": "Almost Famous",
+    "nominations": 4,
+    "year": 2000
+  },
+  {
+    "awards": 1,
+    "name": "Ama Girls",
+    "nominations": 1,
+    "year": 1958
+  },
+  {
+    "awards": 8,
+    "name": "Amadeus",
+    "nominations": 11,
+    "year": 1984
+  },
+  {
+    "awards": 1,
+    "name": "Amarcord",
+    "nominations": 3,
+    "year": 1974
+  },
+  {
+    "awards": 1,
+    "name": "America, America",
+    "nominations": 4,
+    "year": 1963
+  },
+  {
+    "awards": 5,
+    "name": "American Beauty",
+    "nominations": 8,
+    "year": 1999
+  },
+  {
+    "awards": 1,
+    "name": "American Dream",
+    "nominations": 1,
+    "year": 1990
+  },
+  {
+    "awards": 6,
+    "name": "American in Paris, AnAn American in Paris",
+    "nominations": 8,
+    "year": 1951
+  },
+  {
+    "awards": 1,
+    "name": "American Sniper",
+    "nominations": 6,
+    "year": 2014
+  },
+  {
+    "awards": 1,
+    "name": "American Werewolf in London, AnAn American Werewolf in London",
+    "nominations": 1,
+    "year": 1981
+  },
+  {
+    "awards": 1,
+    "name": "Amour",
+    "nominations": 5,
+    "year": 2012
+  },
+  {
+    "awards": 1,
+    "name": "Amphibious Fighters",
+    "nominations": 1,
+    "year": 1943
+  },
+  {
+    "awards": 1,
+    "name": "Anastasia",
+    "nominations": 2,
+    "year": 1956
+  },
+  {
+    "awards": 1,
+    "name": "Anchors Aweigh",
+    "nominations": 5,
+    "year": 1945
+  },
+  {
+    "awards": 1,
+    "name": "Anderson Platoon, TheThe Anderson Platoon (La Section Anderson)",
+    "nominations": 1,
+    "year": 1967
+  },
+  {
+    "awards": 1,
+    "name": "Angel and Big Joe",
+    "nominations": 1,
+    "year": 1975
+  },
+  {
+    "awards": 1,
+    "name": "Anna & Bella",
+    "nominations": 1,
+    "year": 1985
+  },
+  {
+    "awards": 2,
+    "name": "Anna and the King of Siam",
+    "nominations": 5,
+    "year": 1946
+  },
+  {
+    "awards": 1,
+    "name": "Anna Karenina",
+    "nominations": 4,
+    "year": 2012
+  },
+  {
+    "awards": 1,
+    "name": "Anne Frank Remembered",
+    "nominations": 1,
+    "year": 1995
+  },
+  {
+    "awards": 1,
+    "name": "Anne of the Thousand Days",
+    "nominations": 10,
+    "year": 1969
+  },
+  {
+    "awards": 1,
+    "name": "Annie Get Your Gun",
+    "nominations": 4,
+    "year": 1950
+  },
+  {
+    "awards": 4,
+    "name": "Annie Hall",
+    "nominations": 5,
+    "year": 1977
+  },
+  {
+    "awards": 4,
+    "name": "Anthony Adverse",
+    "nominations": 7,
+    "year": 1936
+  },
+  {
+    "awards": 1,
+    "name": "Antonia's Line (Antonia)",
+    "nominations": 1,
+    "year": 1995
+  },
+  {
+    "awards": 5,
+    "name": "Apartment, TheThe Apartment",
+    "nominations": 10,
+    "year": 1960
+  },
+  {
+    "awards": 2,
+    "name": "Apocalypse Now",
+    "nominations": 8,
+    "year": 1979
+  },
+  {
+    "awards": 2,
+    "name": "Apollo 13",
+    "nominations": 9,
+    "year": 1995
+  },
+  {
+    "awards": 1,
+    "name": "Appointments of Dennis Jennings, TheThe Appointments of Dennis Jennings",
+    "nominations": 1,
+    "year": 1988
+  },
+  {
+    "awards": 1,
+    "name": "Aquatic House Party",
+    "nominations": 1,
+    "year": 1949
+  },
+  {
+    "awards": 3,
+    "name": "Argo",
+    "nominations": 7,
+    "year": 2012
+  },
+  {
+    "awards": 1,
+    "name": "Arise, My Love",
+    "nominations": 4,
+    "year": 1940
+  },
+  {
+    "awards": 5,
+    "name": "Around the World in Eighty Days",
+    "nominations": 8,
+    "year": 1956
+  },
+  {
+    "awards": 2,
+    "name": "Arthur",
+    "nominations": 4,
+    "year": 1981
+  },
+  {
+    "awards": 1,
+    "name": "Arthur Rubinstein \u2013 The Love of Life (L'amour de la vie - Artur Rubinstein)",
+    "nominations": 1,
+    "year": 1969
+  },
+  {
+    "awards": 1,
+    "name": "Artie Shaw: Time Is All You've Got",
+    "nominations": 1,
+    "year": 1986
+  },
+  {
+    "awards": 5,
+    "name": "The Artist",
+    "nominations": 10,
+    "year": 2011
+  },
+  {
+    "awards": 2,
+    "name": "As Good as It Gets",
+    "nominations": 7,
+    "year": 1997
+  },
+  {
+    "awards": 1,
+    "name": "Assault, TheThe Assault (De Aanslag)",
+    "nominations": 1,
+    "year": 1986
+  },
+  {
+    "awards": 1,
+    "name": "Atonement",
+    "nominations": 7,
+    "year": 2007
+  },
+  {
+    "awards": 3,
+    "name": "Avatar",
+    "nominations": 9,
+    "year": 2009
+  },
+  {
+    "awards": 5,
+    "name": "Aviator, TheThe Aviator",
+    "nominations": 11,
+    "year": 2004
+  },
+  {
+    "awards": 1,
+    "name": "Awful Truth, TheThe Awful Truth",
+    "nominations": 6,
+    "year": 1937
+  },
+  {
+    "awards": 1,
+    "name": "Babe",
+    "nominations": 7,
+    "year": 1995
+  },
+  {
+    "awards": 1,
+    "name": "Babel",
+    "nominations": 7,
+    "year": 2006
+  },
+  {
+    "awards": 1,
+    "name": "Babette's Feast (Babettes g\u00e6stebud)",
+    "nominations": 1,
+    "year": 1987
+  },
+  {
+    "awards": 1,
+    "name": "Bachelor and the Bobby-Soxer, TheThe Bachelor and the Bobby-Soxer",
+    "nominations": 1,
+    "year": 1947
+  },
+  {
+    "awards": 1,
+    "name": "Back to the Future",
+    "nominations": 4,
+    "year": 1985
+  },
+  {
+    "awards": 5,
+    "name": "Bad and the Beautiful, TheThe Bad and the Beautiful",
+    "nominations": 6,
+    "year": 1952
+  },
+  {
+    "awards": 2,
+    "name": "Bad Girl",
+    "nominations": 3,
+    "year": 1931
+  },
+  {
+    "awards": 1,
+    "name": "Balance",
+    "nominations": 1,
+    "year": 1989
+  },
+  {
+    "awards": 1,
+    "name": "Barbarian Invasions, TheThe Barbarian Invasions",
+    "nominations": 2,
+    "year": 2003
+  },
+  {
+    "awards": 1,
+    "name": "Barefoot Contessa, TheThe Barefoot Contessa",
+    "nominations": 2,
+    "year": 1954
+  },
+  {
+    "awards": 4,
+    "name": "Barry Lyndon",
+    "nominations": 7,
+    "year": 1975
+  },
+  {
+    "awards": 1,
+    "name": "Batman",
+    "nominations": 1,
+    "year": 1989
+  },
+  {
+    "awards": 1,
+    "name": "The Battle of Midway",
+    "nominations": 1,
+    "year": 1942
+  },
+  {
+    "awards": 2,
+    "name": "Battleground",
+    "nominations": 6,
+    "year": 1949
+  },
+  {
+    "awards": 1,
+    "name": "Bear Country",
+    "nominations": 1,
+    "year": 1953
+  },
+  {
+    "awards": 4,
+    "name": "Beautiful Mind, AA Beautiful Mind",
+    "nominations": 8,
+    "year": 2001
+  },
+  {
+    "awards": 2,
+    "name": "Beauty and the Beast",
+    "nominations": 6,
+    "year": 1991
+  },
+  {
+    "awards": 1,
+    "name": "Becket",
+    "nominations": 12,
+    "year": 1964
+  },
+  {
+    "awards": 1,
+    "name": "Bedknobs and Broomsticks",
+    "nominations": 5,
+    "year": 1971
+  },
+  {
+    "awards": 1,
+    "name": "Beetlejuice",
+    "nominations": 1,
+    "year": 1988
+  },
+  {
+    "awards": 1,
+    "name": "Beginners",
+    "nominations": 1,
+    "year": 2011
+  },
+  {
+    "awards": 1,
+    "name": "Being There",
+    "nominations": 2,
+    "year": 1979
+  },
+  {
+    "awards": 1,
+    "name": "Belle \u00c9poque (The Beautiful Era)",
+    "nominations": 1,
+    "year": 1993
+  },
+  {
+    "awards": 1,
+    "name": "Bells of St. Mary's, TheThe Bells of St. Mary's",
+    "nominations": 8,
+    "year": 1945
+  },
+  {
+    "awards": 11,
+    "name": "Ben-Hur",
+    "nominations": 12,
+    "year": 1959
+  },
+  {
+    "awards": 1,
+    "name": "Benjy",
+    "nominations": 1,
+    "year": 1951
+  },
+  {
+    "awards": 1,
+    "name": "Bespoke Overcoat, TheThe Bespoke Overcoat",
+    "nominations": 1,
+    "year": 1956
+  },
+  {
+    "awards": 1,
+    "name": "Best Boy",
+    "nominations": 1,
+    "year": 1979
+  },
+  {
+    "awards": 7,
+    "name": "Best Years of Our Lives, TheThe Best Years of Our Lives",
+    "nominations": 8,
+    "year": 1946
+  },
+  {
+    "awards": 1,
+    "name": "Beyond the Line of Duty",
+    "nominations": 1,
+    "year": 1942
+  },
+  {
+    "awards": 0,
+    "name": "Bicycle Thief, TheThe Bicycle Thief",
+    "nominations": 1,
+    "year": 1949
+  },
+  {
+    "awards": 1,
+    "name": "Big Broadcast of 1938, TheThe Big Broadcast of 1938",
+    "nominations": 1,
+    "year": 1938
+  },
+  {
+    "awards": 1,
+    "name": "Big Country, TheThe Big Country",
+    "nominations": 2,
+    "year": 1958
+  },
+  {
+    "awards": 1,
+    "name": "Big Hero 6",
+    "nominations": 1,
+    "year": 2014
+  },
+  {
+    "awards": 2,
+    "name": "Big House, TheThe Big House",
+    "nominations": 4,
+    "year": 1929
+  },
+  {
+    "awards": 1,
+    "name": "Big Mama",
+    "nominations": 1,
+    "year": 2000
+  },
+  {
+    "awards": 0,
+    "name": "Bill and Coo",
+    "nominations": 0,
+    "year": 1948
+  },
+  {
+    "awards": 1,
+    "name": "Bird",
+    "nominations": 1,
+    "year": 1988
+  },
+  {
+    "awards": 4,
+    "name": "Birdman or (The Unexpected Virtue of Ignorance)",
+    "nominations": 9,
+    "year": 2014
+  },
+  {
+    "awards": 1,
+    "name": "Birds Anonymous",
+    "nominations": 1,
+    "year": 1957
+  },
+  {
+    "awards": 1,
+    "name": "Bishop's Wife, TheThe Bishop's Wife",
+    "nominations": 5,
+    "year": 1947
+  },
+  {
+    "awards": 1,
+    "name": "Black and White in Color (Noirs et blancs en couleur)",
+    "nominations": 1,
+    "year": 1976
+  },
+  {
+    "awards": 1,
+    "name": "Black Fox: The Rise and Fall of Adolf Hitler (The Black Fox)",
+    "nominations": 1,
+    "year": 1962
+  },
+  {
+    "awards": 2,
+    "name": "Black Hawk Down",
+    "nominations": 4,
+    "year": 2001
+  },
+  {
+    "awards": 2,
+    "name": "Black Narcissus",
+    "nominations": 2,
+    "year": 1947
+  },
+  {
+    "awards": 1,
+    "name": "Black Orpheus (Orfeu Negro)",
+    "nominations": 1,
+    "year": 1959
+  },
+  {
+    "awards": 1,
+    "name": "Black Rider (Schwarzfahrer)",
+    "nominations": 1,
+    "year": 1993
+  },
+  {
+    "awards": 0,
+    "name": "Black Stallion, TheThe Black Stallion",
+    "nominations": 2,
+    "year": 1979
+  },
+  {
+    "awards": 1,
+    "name": "Black Swan",
+    "nominations": 5,
+    "year": 2010
+  },
+  {
+    "awards": 1,
+    "name": "Black Swan, TheThe Black Swan",
+    "nominations": 3,
+    "year": 1942
+  },
+  {
+    "awards": 1,
+    "name": "Blind Side, TheThe Blind Side",
+    "nominations": 2,
+    "year": 2009
+  },
+  {
+    "awards": 1,
+    "name": "Blithe Spirit",
+    "nominations": 1,
+    "year": 1946
+  },
+  {
+    "awards": 1,
+    "name": "Blood and Sand",
+    "nominations": 2,
+    "year": 1941
+  },
+  {
+    "awards": 1,
+    "name": "Blood of Yingzhou District, TheThe Blood of Yingzhou District",
+    "nominations": 1,
+    "year": 2006
+  },
+  {
+    "awards": 1,
+    "name": "Blood on the Sun",
+    "nominations": 1,
+    "year": 1945
+  },
+  {
+    "awards": 1,
+    "name": "Blossoms in the Dust",
+    "nominations": 4,
+    "year": 1941
+  },
+  {
+    "awards": 1,
+    "name": "Blue Jasmine",
+    "nominations": 3,
+    "year": 2013
+  },
+  {
+    "awards": 1,
+    "name": "Blue Sky",
+    "nominations": 1,
+    "year": 1994
+  },
+  {
+    "awards": 1,
+    "name": "Board and Care",
+    "nominations": 1,
+    "year": 1979
+  },
+  {
+    "awards": 1,
+    "name": "Bob's Birthday",
+    "nominations": 1,
+    "year": 1994
+  },
+  {
+    "awards": 1,
+    "name": "Body and Soul",
+    "nominations": 3,
+    "year": 1947
+  },
+  {
+    "awards": 1,
+    "name": "Bolero, TheThe Bolero",
+    "nominations": 1,
+    "year": 1973
+  },
+  {
+    "awards": 2,
+    "name": "Bonnie and Clyde",
+    "nominations": 10,
+    "year": 1967
+  },
+  {
+    "awards": 1,
+    "name": "Bored of Education",
+    "nominations": 1,
+    "year": 1936
+  },
+  {
+    "awards": 2,
+    "name": "Born Free",
+    "nominations": 2,
+    "year": 1966
+  },
+  {
+    "awards": 1,
+    "name": "Born into Brothels: Calcutta's Red Light Kids",
+    "nominations": 1,
+    "year": 2004
+  },
+  {
+    "awards": 2,
+    "name": "Born on the Fourth of July",
+    "nominations": 8,
+    "year": 1989
+  },
+  {
+    "awards": 1,
+    "name": "Born Yesterday",
+    "nominations": 5,
+    "year": 1950
+  },
+  {
+    "awards": 2,
+    "name": "Bound for Glory",
+    "nominations": 6,
+    "year": 1976
+  },
+  {
+    "awards": 3,
+    "name": "Bourne Ultimatum, TheThe Bourne Ultimatum",
+    "nominations": 3,
+    "year": 2007
+  },
+  {
+    "awards": 1,
+    "name": "Bowling for Columbine",
+    "nominations": 1,
+    "year": 2002
+  },
+  {
+    "awards": 1,
+    "name": "Box, TheThe Box",
+    "nominations": 1,
+    "year": 1967
+  },
+  {
+    "awards": 1,
+    "name": "Boy and His Dog, AA Boy and His Dog",
+    "nominations": 1,
+    "year": 1946
+  },
+  {
+    "awards": 1,
+    "name": "Boyhood",
+    "nominations": 6,
+    "year": 2014
+  },
+  {
+    "awards": 1,
+    "name": "Boys and Girls",
+    "nominations": 1,
+    "year": 1983
+  },
+  {
+    "awards": 1,
+    "name": "Boys Don't Cry",
+    "nominations": 2,
+    "year": 1999
+  },
+  {
+    "awards": 2,
+    "name": "Boys Town",
+    "nominations": 5,
+    "year": 1938
+  },
+  {
+    "awards": 3,
+    "name": "Bram Stoker's Dracula",
+    "nominations": 4,
+    "year": 1992
+  },
+  {
+    "awards": 1,
+    "name": "Brave",
+    "nominations": 1,
+    "year": 2012
+  },
+  {
+    "awards": 1,
+    "name": "Brave One, TheThe Brave One",
+    "nominations": 3,
+    "year": 1956
+  },
+  {
+    "awards": 5,
+    "name": "Braveheart",
+    "nominations": 10,
+    "year": 1995
+  },
+  {
+    "awards": 2,
+    "name": "Breakfast at Tiffany's",
+    "nominations": 5,
+    "year": 1961
+  },
+  {
+    "awards": 1,
+    "name": "Breaking Away",
+    "nominations": 5,
+    "year": 1979
+  },
+  {
+    "awards": 1,
+    "name": "Breaking the Sound Barrier",
+    "nominations": 2,
+    "year": 1952
+  },
+  {
+    "awards": 1,
+    "name": "Breathing Lessons: The Life and Work of Mark O'Brien",
+    "nominations": 1,
+    "year": 1996
+  },
+  {
+    "awards": 1,
+    "name": "Bridge of San Luis Rey, TheThe Bridge of San Luis Rey",
+    "nominations": 1,
+    "year": 1928
+  },
+  {
+    "awards": 7,
+    "name": "Bridge on the River Kwai, TheThe Bridge on the River Kwai",
+    "nominations": 8,
+    "year": 1957
+  },
+  {
+    "awards": 1,
+    "name": "Bridges at Toko-Ri, TheThe Bridges at Toko-Ri",
+    "nominations": 2,
+    "year": 1955
+  },
+  {
+    "awards": 1,
+    "name": "Broadway Melody of 1936",
+    "nominations": 3,
+    "year": 1935
+  },
+  {
+    "awards": 1,
+    "name": "Broadway Melody, TheThe Broadway Melody",
+    "nominations": 3,
+    "year": 1928
+  },
+  {
+    "awards": 3,
+    "name": "Brokeback Mountain",
+    "nominations": 8,
+    "year": 2005
+  },
+  {
+    "awards": 1,
+    "name": "Broken Lance",
+    "nominations": 2,
+    "year": 1954
+  },
+  {
+    "awards": 1,
+    "name": "Broken Rainbow",
+    "nominations": 1,
+    "year": 1985
+  },
+  {
+    "awards": 1,
+    "name": "Buddy Holly Story, TheThe Buddy Holly Story",
+    "nominations": 3,
+    "year": 1978
+  },
+  {
+    "awards": 2,
+    "name": "Bugsy",
+    "nominations": 10,
+    "year": 1991
+  },
+  {
+    "awards": 1,
+    "name": "Bullets over Broadway",
+    "nominations": 7,
+    "year": 1994
+  },
+  {
+    "awards": 1,
+    "name": "Bullitt",
+    "nominations": 2,
+    "year": 1968
+  },
+  {
+    "awards": 1,
+    "name": "Bunny",
+    "nominations": 1,
+    "year": 1998
+  },
+  {
+    "awards": 1,
+    "name": "Burnt by the Sun (Utomlyonnye solntsem)",
+    "nominations": 1,
+    "year": 1994
+  },
+  {
+    "awards": 1,
+    "name": "Busy Little Bears",
+    "nominations": 1,
+    "year": 1939
+  },
+  {
+    "awards": 4,
+    "name": "Butch Cassidy and the Sundance Kid",
+    "nominations": 7,
+    "year": 1969
+  },
+  {
+    "awards": 1,
+    "name": "BUtterfield 8",
+    "nominations": 2,
+    "year": 1960
+  },
+  {
+    "awards": 1,
+    "name": "Butterflies Are Free",
+    "nominations": 3,
+    "year": 1972
+  },
+  {
+    "awards": 8,
+    "name": "Cabaret",
+    "nominations": 10,
+    "year": 1972
+  },
+  {
+    "awards": 1,
+    "name": "Cactus Flower",
+    "nominations": 1,
+    "year": 1969
+  },
+  {
+    "awards": 1,
+    "name": "Calamity Jane",
+    "nominations": 3,
+    "year": 1953
+  },
+  {
+    "awards": 1,
+    "name": "California Suite",
+    "nominations": 3,
+    "year": 1978
+  },
+  {
+    "awards": 1,
+    "name": "Call Me Madam",
+    "nominations": 2,
+    "year": 1953
+  },
+  {
+    "awards": 3,
+    "name": "Camelot",
+    "nominations": 5,
+    "year": 1967
+  },
+  {
+    "awards": 1,
+    "name": "Candidate, TheThe Candidate",
+    "nominations": 2,
+    "year": 1972
+  },
+  {
+    "awards": 1,
+    "name": "Capote",
+    "nominations": 5,
+    "year": 2005
+  },
+  {
+    "awards": 1,
+    "name": "Captain Carey, U.S.A.",
+    "nominations": 1,
+    "year": 1950
+  },
+  {
+    "awards": 1,
+    "name": "Captains Courageous",
+    "nominations": 4,
+    "year": 1937
+  },
+  {
+    "awards": 3,
+    "name": "Casablanca",
+    "nominations": 8,
+    "year": 1943
+  },
+  {
+    "awards": 1,
+    "name": "Casals Conducts: 1964",
+    "nominations": 1,
+    "year": 1964
+  },
+  {
+    "awards": 1,
+    "name": "Cat Ballou",
+    "nominations": 5,
+    "year": 1965
+  },
+  {
+    "awards": 1,
+    "name": "Cat Concerto, TheThe Cat Concerto",
+    "nominations": 1,
+    "year": 1946
+  },
+  {
+    "awards": 3,
+    "name": "Cavalcade",
+    "nominations": 4,
+    "year": 1932
+  },
+  {
+    "awards": 1,
+    "name": "Chagall",
+    "nominations": 1,
+    "year": 1963
+  },
+  {
+    "awards": 2,
+    "name": "Champ, TheThe Champ",
+    "nominations": 4,
+    "year": 1931
+  },
+  {
+    "awards": 1,
+    "name": "Champion",
+    "nominations": 6,
+    "year": 1949
+  },
+  {
+    "awards": 1,
+    "name": "Chance to Live, AA Chance to Live",
+    "nominations": 1,
+    "year": 1949
+  },
+  {
+    "awards": 1,
+    "name": "Character (Karakter)",
+    "nominations": 1,
+    "year": 1997
+  },
+  {
+    "awards": 1,
+    "name": "Charade",
+    "nominations": 1,
+    "year": 1984
+  },
+  {
+    "awards": 1,
+    "name": "Charge of the Light Brigade, TheThe Charge of the Light Brigade",
+    "nominations": 3,
+    "year": 1936
+  },
+  {
+    "awards": 4,
+    "name": "Chariots of Fire",
+    "nominations": 7,
+    "year": 1981
+  },
+  {
+    "awards": 1,
+    "name": "Charly",
+    "nominations": 1,
+    "year": 1968
+  },
+  {
+    "awards": 1,
+    "name": "Chernobyl Heart",
+    "nominations": 1,
+    "year": 2003
+  },
+  {
+    "awards": 6,
+    "name": "Chicago",
+    "nominations": 13,
+    "year": 2002
+  },
+  {
+    "awards": 1,
+    "name": "Chicken, TheThe Chicken (Le Poulet)",
+    "nominations": 1,
+    "year": 1965
+  },
+  {
+    "awards": 1,
+    "name": "Children of a Lesser God",
+    "nominations": 5,
+    "year": 1986
+  },
+  {
+    "awards": 1,
+    "name": "Chinatown",
+    "nominations": 11,
+    "year": 1974
+  },
+  {
+    "awards": 1,
+    "name": "Christmas Carol, AA Christmas Carol",
+    "nominations": 1,
+    "year": 1972
+  },
+  {
+    "awards": 1,
+    "name": "Chronicles of Narnia: The Lion, the Witch and the Wardrobe, TheThe Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "nominations": 3,
+    "year": 2005
+  },
+  {
+    "awards": 1,
+    "name": "Chubbchubbs!, TheThe Chubbchubbs!",
+    "nominations": 1,
+    "year": 2002
+  },
+  {
+    "awards": 1,
+    "name": "Churchill's Island",
+    "nominations": 1,
+    "year": 1941
+  },
+  {
+    "awards": 2,
+    "name": "Cider House Rules, TheThe Cider House Rules",
+    "nominations": 7,
+    "year": 1999
+  },
+  {
+    "awards": 3,
+    "name": "Cimarron",
+    "nominations": 7,
+    "year": 1930
+  },
+  {
+    "awards": 1,
+    "name": "Cinema Paradiso",
+    "nominations": 1,
+    "year": 1989
+  },
+  {
+    "awards": 0,
+    "name": "Circus, TheThe Circus",
+    "nominations": 0,
+    "year": 1927
+  },
+  {
+    "awards": 1,
+    "name": "Citizen Kane",
+    "nominations": 9,
+    "year": 1941
+  },
+  {
+    "awards": 1,
+    "name": "City of Wax",
+    "nominations": 1,
+    "year": 1934
+  },
+  {
+    "awards": 1,
+    "name": "City Slickers",
+    "nominations": 1,
+    "year": 1991
+  },
+  {
+    "awards": 1,
+    "name": "Cleopatra",
+    "nominations": 5,
+    "year": 1934
+  },
+  {
+    "awards": 4,
+    "name": "Cleopatra",
+    "nominations": 9,
+    "year": 1963
+  },
+  {
+    "awards": 1,
+    "name": "Climbing the Matterhorn",
+    "nominations": 1,
+    "year": 1947
+  },
+  {
+    "awards": 1,
+    "name": "Close Encounters of the Third Kind",
+    "nominations": 8,
+    "year": 1977
+  },
+  {
+    "awards": 1,
+    "name": "Close Harmony",
+    "nominations": 1,
+    "year": 1981
+  },
+  {
+    "awards": 1,
+    "name": "Close Shave, AA Close Shave",
+    "nominations": 1,
+    "year": 1995
+  },
+  {
+    "awards": 1,
+    "name": "Closed Mondays",
+    "nominations": 1,
+    "year": 1974
+  },
+  {
+    "awards": 1,
+    "name": "Closely Watched Trains (Ostre sledovan\u00e9 vlaky)",
+    "nominations": 1,
+    "year": 1967
+  },
+  {
+    "awards": 1,
+    "name": "Coal Miner's Daughter",
+    "nominations": 7,
+    "year": 1980
+  },
+  {
+    "awards": 2,
+    "name": "Cocoon",
+    "nominations": 2,
+    "year": 1985
+  },
+  {
+    "awards": 1,
+    "name": "Cold Mountain",
+    "nominations": 7,
+    "year": 2003
+  },
+  {
+    "awards": 1,
+    "name": "Color of Money, TheThe Color of Money",
+    "nominations": 4,
+    "year": 1986
+  },
+  {
+    "awards": 1,
+    "name": "Come and Get It",
+    "nominations": 2,
+    "year": 1936
+  },
+  {
+    "awards": 1,
+    "name": "Come Back, Little Sheba",
+    "nominations": 3,
+    "year": 1952
+  },
+  {
+    "awards": 3,
+    "name": "Coming Home",
+    "nominations": 8,
+    "year": 1978
+  },
+  {
+    "awards": 1,
+    "name": "Common Threads: Stories from the Quilt",
+    "nominations": 1,
+    "year": 1989
+  },
+  {
+    "awards": 1,
+    "name": "Constant Gardener, TheThe Constant Gardener",
+    "nominations": 4,
+    "year": 2005
+  },
+  {
+    "awards": 1,
+    "name": "Cool Hand Luke",
+    "nominations": 4,
+    "year": 1967
+  },
+  {
+    "awards": 1,
+    "name": "Coquette",
+    "nominations": 1,
+    "year": 1928
+  },
+  {
+    "awards": 1,
+    "name": "Counterfeiters, TheThe Counterfeiters (Die F\u00e4lscher)",
+    "nominations": 1,
+    "year": 2007
+  },
+  {
+    "awards": 1,
+    "name": "Country Cousin, TheThe Country Cousin",
+    "nominations": 1,
+    "year": 1936
+  },
+  {
+    "awards": 2,
+    "name": "Country Girl, TheThe Country Girl",
+    "nominations": 7,
+    "year": 1954
+  },
+  {
+    "awards": 1,
+    "name": "Cove, TheThe Cove",
+    "nominations": 1,
+    "year": 2009
+  },
+  {
+    "awards": 1,
+    "name": "Cover Girl",
+    "nominations": 5,
+    "year": 1944
+  },
+  {
+    "awards": 1,
+    "name": "Cowboy and the Lady, TheThe Cowboy and the Lady",
+    "nominations": 3,
+    "year": 1938
+  },
+  {
+    "awards": 1,
+    "name": "Crac",
+    "nominations": 1,
+    "year": 1981
+  },
+  {
+    "awards": 3,
+    "name": "Crash",
+    "nominations": 6,
+    "year": 2005
+  },
+  {
+    "awards": 1,
+    "name": "Crash Dive",
+    "nominations": 1,
+    "year": 1943
+  },
+  {
+    "awards": 1,
+    "name": "Crashing the Water Barrier",
+    "nominations": 1,
+    "year": 1956
+  },
+  {
+    "awards": 2,
+    "name": "Crazy Heart",
+    "nominations": 3,
+    "year": 2009
+  },
+  {
+    "awards": 1,
+    "name": "Creature Comforts",
+    "nominations": 1,
+    "year": 1990
+  },
+  {
+    "awards": 1,
+    "name": "Cries and Whispers (Viskningar och rop)",
+    "nominations": 5,
+    "year": 1973
+  },
+  {
+    "awards": 1,
+    "name": "Critic, TheThe Critic",
+    "nominations": 1,
+    "year": 1963
+  },
+  {
+    "awards": 1,
+    "name": "Cromwell",
+    "nominations": 2,
+    "year": 1970
+  },
+  {
+    "awards": 4,
+    "name": "Crouching Tiger, Hidden Dragon",
+    "nominations": 10,
+    "year": 2000
+  },
+  {
+    "awards": 1,
+    "name": "Crunch Bird, TheThe Crunch Bird",
+    "nominations": 1,
+    "year": 1971
+  },
+  {
+    "awards": 1,
+    "name": "Crying Game, TheThe Crying Game",
+    "nominations": 6,
+    "year": 1992
+  },
+  {
+    "awards": 1,
+    "name": "Cucaracha, LaLa Cucaracha",
+    "nominations": 1,
+    "year": 1934
+  },
+  {
+    "awards": 1,
+    "name": "Curfew",
+    "nominations": 1,
+    "year": 2012
+  },
+  {
+    "awards": 3,
+    "name": "Curious Case of Benjamin Button, TheThe Curious Case of Benjamin Button",
+    "nominations": 13,
+    "year": 2008
+  },
+  {
+    "awards": 1,
+    "name": "Cyrano de Bergerac",
+    "nominations": 1,
+    "year": 1950
+  },
+  {
+    "awards": 1,
+    "name": "Cyrano de Bergerac",
+    "nominations": 5,
+    "year": 1990
+  },
+  {
+    "awards": 1,
+    "name": "Czechoslovakia 1968",
+    "nominations": 1,
+    "year": 1969
+  },
+  {
+    "awards": 3,
+    "name": "Dallas Buyers Club",
+    "nominations": 6,
+    "year": 2013
+  },
+  {
+    "awards": 1,
+    "name": "Damsel in Distress, AA Damsel in Distress",
+    "nominations": 2,
+    "year": 1937
+  },
+  {
+    "awards": 7,
+    "name": "Dances with Wolves",
+    "nominations": 12,
+    "year": 1990
+  },
+  {
+    "awards": 1,
+    "name": "Dangerous",
+    "nominations": 1,
+    "year": 1935
+  },
+  {
+    "awards": 3,
+    "name": "Dangerous Liaisons",
+    "nominations": 7,
+    "year": 1988
+  },
+  {
+    "awards": 1,
+    "name": "Dangerous Moves (La Diagonale du fou)",
+    "nominations": 1,
+    "year": 1984
+  },
+  {
+    "awards": 1,
+    "name": "Danish Poet, TheThe Danish Poet",
+    "nominations": 1,
+    "year": 2006
+  },
+  {
+    "awards": 1,
+    "name": "Dark Angel, TheThe Dark Angel",
+    "nominations": 3,
+    "year": 1935
+  },
+  {
+    "awards": 2,
+    "name": "Dark Knight, TheThe Dark Knight",
+    "nominations": 8,
+    "year": 2008
+  },
+  {
+    "awards": 3,
+    "name": "Darling",
+    "nominations": 5,
+    "year": 1965
+  },
+  {
+    "awards": 1,
+    "name": "Dawn Patrol, TheThe Dawn Patrol",
+    "nominations": 1,
+    "year": 1930
+  },
+  {
+    "awards": 1,
+    "name": "Day for Night (La Nuit am\u00e9ricaine)",
+    "nominations": 4,
+    "year": 1973
+  },
+  {
+    "awards": 1,
+    "name": "Day of the Painter",
+    "nominations": 1,
+    "year": 1960
+  },
+  {
+    "awards": 1,
+    "name": "Daybreak in Udi",
+    "nominations": 1,
+    "year": 1949
+  },
+  {
+    "awards": 1,
+    "name": "Days of Heaven",
+    "nominations": 4,
+    "year": 1978
+  },
+  {
+    "awards": 1,
+    "name": "Days of Waiting",
+    "nominations": 1,
+    "year": 1990
+  },
+  {
+    "awards": 1,
+    "name": "Days of Wine and Roses",
+    "nominations": 5,
+    "year": 1962
+  },
+  {
+    "awards": 1,
+    "name": "Dead Man Walking",
+    "nominations": 4,
+    "year": 1995
+  },
+  {
+    "awards": 1,
+    "name": "Dead Poets Society",
+    "nominations": 4,
+    "year": 1989
+  },
+  {
+    "awards": 1,
+    "name": "Deadly Deception: General Electric, Nuclear Weapons and Our Environment",
+    "nominations": 1,
+    "year": 1991
+  },
+  {
+    "awards": 1,
+    "name": "Dear Diary",
+    "nominations": 1,
+    "year": 1996
+  },
+  {
+    "awards": 1,
+    "name": "Death Becomes Her",
+    "nominations": 1,
+    "year": 1992
+  },
+  {
+    "awards": 1,
+    "name": "Death on the Nile",
+    "nominations": 1,
+    "year": 1978
+  },
+  {
+    "awards": 1,
+    "name": "December 7th",
+    "nominations": 1,
+    "year": 1943
+  },
+  {
+    "awards": 1,
+    "name": "Declaration of Independence",
+    "nominations": 1,
+    "year": 1938
+  },
+  {
+    "awards": 5,
+    "name": "Deer Hunter, TheThe Deer Hunter",
+    "nominations": 9,
+    "year": 1978
+  },
+  {
+    "awards": 1,
+    "name": "Defending Our Lives",
+    "nominations": 1,
+    "year": 1993
+  },
+  {
+    "awards": 2,
+    "name": "Defiant Ones, TheThe Defiant Ones",
+    "nominations": 9,
+    "year": 1958
+  },
+  {
+    "awards": 4,
+    "name": "Departed, TheThe Departed",
+    "nominations": 5,
+    "year": 2006
+  },
+  {
+    "awards": 1,
+    "name": "Departures",
+    "nominations": 1,
+    "year": 2008
+  },
+  {
+    "awards": 1,
+    "name": "Der Fuehrer's Face",
+    "nominations": 1,
+    "year": 1942
+  },
+  {
+    "awards": 1,
+    "name": "Dersu Uzala",
+    "nominations": 1,
+    "year": 1975
+  },
+  {
+    "awards": 1,
+    "name": "The Descendants",
+    "nominations": 5,
+    "year": 2011
+  },
+  {
+    "awards": 1,
+    "name": "Desert Victory",
+    "nominations": 1,
+    "year": 1943
+  },
+  {
+    "awards": 1,
+    "name": "Design for Death",
+    "nominations": 1,
+    "year": 1947
+  },
+  {
+    "awards": 1,
+    "name": "Designing Woman",
+    "nominations": 1,
+    "year": 1957
+  },
+  {
+    "awards": 1,
+    "name": "Destination Moon",
+    "nominations": 2,
+    "year": 1950
+  },
+  {
+    "awards": 3,
+    "name": "Diary of Anne Frank, TheThe Diary of Anne Frank",
+    "nominations": 8,
+    "year": 1959
+  },
+  {
+    "awards": 3,
+    "name": "Dick Tracy",
+    "nominations": 7,
+    "year": 1990
+  },
+  {
+    "awards": 1,
+    "name": "Dirty Dancing",
+    "nominations": 1,
+    "year": 1987
+  },
+  {
+    "awards": 1,
+    "name": "Dirty Dozen, TheThe Dirty Dozen",
+    "nominations": 4,
+    "year": 1967
+  },
+  {
+    "awards": 1,
+    "name": "Discreet Charm of the Bourgeoisie, TheThe Discreet Charm of the Bourgeoisie (Le charme discret de la bourgeoisie)",
+    "nominations": 2,
+    "year": 1972
+  },
+  {
+    "awards": 1,
+    "name": "Disraeli",
+    "nominations": 3,
+    "year": 1929
+  },
+  {
+    "awards": 1,
+    "name": "Divine Lady, TheThe Divine Lady",
+    "nominations": 3,
+    "year": 1928
+  },
+  {
+    "awards": 1,
+    "name": "Divorce Italian Style",
+    "nominations": 3,
+    "year": 1962
+  },
+  {
+    "awards": 1,
+    "name": "Divorcee, TheThe Divorcee",
+    "nominations": 4,
+    "year": 1929
+  },
+  {
+    "awards": 2,
+    "name": "Django Unchained",
+    "nominations": 5,
+    "year": 2012
+  },
+  {
+    "awards": 2,
+    "name": "Doctor Dolittle",
+    "nominations": 9,
+    "year": 1967
+  },
+  {
+    "awards": 5,
+    "name": "Doctor Zhivago",
+    "nominations": 10,
+    "year": 1965
+  },
+  {
+    "awards": 1,
+    "name": "Dodsworth",
+    "nominations": 7,
+    "year": 1936
+  },
+  {
+    "awards": 1,
+    "name": "Dog Day Afternoon",
+    "nominations": 6,
+    "year": 1975
+  },
+  {
+    "awards": 1,
+    "name": "Dollar Bottom, TheThe Dollar Bottom",
+    "nominations": 1,
+    "year": 1980
+  },
+  {
+    "awards": 1,
+    "name": "Don't",
+    "nominations": 1,
+    "year": 1974
+  },
+  {
+    "awards": 1,
+    "name": "Dot and the Line, TheThe Dot and the Line (The Dot and the Line: A Romance in Lower Mathematics)",
+    "nominations": 1,
+    "year": 1965
+  },
+  {
+    "awards": 2,
+    "name": "Double Life, AA Double Life",
+    "nominations": 4,
+    "year": 1947
+  },
+  {
+    "awards": 1,
+    "name": "Dove, TheThe Dove",
+    "nominations": 1,
+    "year": 1927
+  },
+  {
+    "awards": 1,
+    "name": "Down and Out in America",
+    "nominations": 1,
+    "year": 1986
+  },
+  {
+    "awards": 1,
+    "name": "Dr. Jekyll and Mr. Hyde",
+    "nominations": 3,
+    "year": 1931
+  },
+  {
+    "awards": 1,
+    "name": "Dr. Seuss' How the Grinch Stole Christmas (How the Grinch Stole Christmas)",
+    "nominations": 3,
+    "year": 2000
+  },
+  {
+    "awards": 2,
+    "name": "Dreamgirls",
+    "nominations": 8,
+    "year": 2006
+  },
+  {
+    "awards": 4,
+    "name": "Driving Miss Daisy",
+    "nominations": 9,
+    "year": 1989
+  },
+  {
+    "awards": 1,
+    "name": "Duchess, TheThe Duchess",
+    "nominations": 2,
+    "year": 2008
+  },
+  {
+    "awards": 1,
+    "name": "Dumbo",
+    "nominations": 2,
+    "year": 1941
+  },
+  {
+    "awards": 1,
+    "name": "Dylan Thomas",
+    "nominations": 1,
+    "year": 1962
+  },
+  {
+    "awards": 4,
+    "name": "E.T.: The Extra-Terrestrial",
+    "nominations": 9,
+    "year": 1982
+  },
+  {
+    "awards": 1,
+    "name": "Earthquake",
+    "nominations": 4,
+    "year": 1974
+  },
+  {
+    "awards": 1,
+    "name": "East of Eden",
+    "nominations": 4,
+    "year": 1955
+  },
+  {
+    "awards": 1,
+    "name": "Easter Parade",
+    "nominations": 1,
+    "year": 1948
+  },
+  {
+    "awards": 2,
+    "name": "Ed Wood",
+    "nominations": 2,
+    "year": 1994
+  },
+  {
+    "awards": 1,
+    "name": "Educating Peter",
+    "nominations": 1,
+    "year": 1992
+  },
+  {
+    "awards": 1,
+    "name": "Eleanor Roosevelt Story, TheThe Eleanor Roosevelt Story",
+    "nominations": 1,
+    "year": 1965
+  },
+  {
+    "awards": 1,
+    "name": "Election Night (Valgaften)",
+    "nominations": 1,
+    "year": 1998
+  },
+  {
+    "awards": 1,
+    "name": "Elizabeth",
+    "nominations": 7,
+    "year": 1998
+  },
+  {
+    "awards": 1,
+    "name": "Elizabeth: The Golden Age",
+    "nominations": 2,
+    "year": 2007
+  },
+  {
+    "awards": 3,
+    "name": "Elmer Gantry",
+    "nominations": 5,
+    "year": 1960
+  },
+  {
+    "awards": 1,
+    "name": "Emma",
+    "nominations": 2,
+    "year": 1996
+  },
+  {
+    "awards": 1,
+    "name": "Empire Strikes Back, TheThe Empire Strikes Back",
+    "nominations": 3,
+    "year": 1980
+  },
+  {
+    "awards": 1,
+    "name": "End of the Game, TheThe End of the Game",
+    "nominations": 1,
+    "year": 1975
+  },
+  {
+    "awards": 1,
+    "name": "Enemy Below, TheThe Enemy Below",
+    "nominations": 1,
+    "year": 1957
+  },
+  {
+    "awards": 9,
+    "name": "English Patient, TheThe English Patient",
+    "nominations": 12,
+    "year": 1996
+  },
+  {
+    "awards": 1,
+    "name": "Erin Brockovich",
+    "nominations": 5,
+    "year": 2000
+  },
+  {
+    "awards": 1,
+    "name": "Eskimo",
+    "nominations": 1,
+    "year": 1934
+  },
+  {
+    "awards": 1,
+    "name": "Eternal Sunshine of the Spotless Mind",
+    "nominations": 2,
+    "year": 2004
+  },
+  {
+    "awards": 1,
+    "name": "Every Child",
+    "nominations": 1,
+    "year": 1979
+  },
+  {
+    "awards": 1,
+    "name": "Evita",
+    "nominations": 5,
+    "year": 1996
+  },
+  {
+    "awards": 1,
+    "name": "Exodus",
+    "nominations": 3,
+    "year": 1960
+  },
+  {
+    "awards": 2,
+    "name": "Exorcist, TheThe Exorcist",
+    "nominations": 10,
+    "year": 1973
+  },
+  {
+    "awards": 1,
+    "name": "Face of Lincoln, TheThe Face of Lincoln",
+    "nominations": 2,
+    "year": 1955
+  },
+  {
+    "awards": 1,
+    "name": "Facing Your Danger",
+    "nominations": 1,
+    "year": 1946
+  },
+  {
+    "awards": 1,
+    "name": "Facts of Life, TheThe Facts of Life",
+    "nominations": 5,
+    "year": 1960
+  },
+  {
+    "awards": 2,
+    "name": "Fame",
+    "nominations": 6,
+    "year": 1980
+  },
+  {
+    "awards": 4,
+    "name": "Fanny & Alexander (Fanny och Alexander)",
+    "nominations": 6,
+    "year": 1983
+  },
+  {
+    "awards": 0,
+    "name": "Fantasia",
+    "nominations": 0,
+    "year": 1940
+  },
+  {
+    "awards": 1,
+    "name": "Fantastic Flying Books of Mr. Morris Lessmore, TheThe Fantastic Flying Books of Mr. Morris Lessmore",
+    "nominations": 1,
+    "year": 2011
+  },
+  {
+    "awards": 2,
+    "name": "Fantastic Voyage",
+    "nominations": 5,
+    "year": 1966
+  },
+  {
+    "awards": 2,
+    "name": "Farewell to Arms, AA Farewell to Arms",
+    "nominations": 4,
+    "year": 1932
+  },
+  {
+    "awards": 2,
+    "name": "Fargo",
+    "nominations": 7,
+    "year": 1996
+  },
+  {
+    "awards": 1,
+    "name": "Farmer's Daughter, TheThe Farmer's Daughter",
+    "nominations": 2,
+    "year": 1947
+  },
+  {
+    "awards": 1,
+    "name": "Father and Daughter",
+    "nominations": 1,
+    "year": 2000
+  },
+  {
+    "awards": 1,
+    "name": "Father Goose",
+    "nominations": 3,
+    "year": 1964
+  },
+  {
+    "awards": 2,
+    "name": "Federico Fellini's 8\u00bd",
+    "nominations": 5,
+    "year": 1963
+  },
+  {
+    "awards": 1,
+    "name": "Fellini's Casanova (Il Casanova di Federico Fellini)",
+    "nominations": 2,
+    "year": 1976
+  },
+  {
+    "awards": 1,
+    "name": "Ferdinand the Bull",
+    "nominations": 1,
+    "year": 1938
+  },
+  {
+    "awards": 3,
+    "name": "Fiddler on the Roof",
+    "nominations": 8,
+    "year": 1971
+  },
+  {
+    "awards": 2,
+    "name": "Fighter, TheThe Fighter",
+    "nominations": 7,
+    "year": 2010
+  },
+  {
+    "awards": 1,
+    "name": "Fighting Lady, TheThe Fighting Lady",
+    "nominations": 1,
+    "year": 1944
+  },
+  {
+    "awards": 1,
+    "name": "Finding Nemo",
+    "nominations": 4,
+    "year": 2003
+  },
+  {
+    "awards": 1,
+    "name": "Finding Neverland",
+    "nominations": 7,
+    "year": 2004
+  },
+  {
+    "awards": 1,
+    "name": "First Steps",
+    "nominations": 1,
+    "year": 1947
+  },
+  {
+    "awards": 1,
+    "name": "Fish Called Wanda, AA Fish Called Wanda",
+    "nominations": 3,
+    "year": 1988
+  },
+  {
+    "awards": 1,
+    "name": "Fisher King, TheThe Fisher King",
+    "nominations": 5,
+    "year": 1991
+  },
+  {
+    "awards": 1,
+    "name": "Flamenco at 5:15",
+    "nominations": 1,
+    "year": 1983
+  },
+  {
+    "awards": 1,
+    "name": "Flashdance",
+    "nominations": 4,
+    "year": 1983
+  },
+  {
+    "awards": 1,
+    "name": "Flight of the Gossamer Condor, TheThe Flight of the Gossamer Condor",
+    "nominations": 1,
+    "year": 1978
+  },
+  {
+    "awards": 1,
+    "name": "Flowers and Trees",
+    "nominations": 1,
+    "year": 1931
+  },
+  {
+    "awards": 1,
+    "name": "Fly, TheThe Fly (A L\u00e9gy)",
+    "nominations": 1,
+    "year": 1980
+  },
+  {
+    "awards": 1,
+    "name": "Fly, TheThe Fly",
+    "nominations": 1,
+    "year": 1986
+  },
+  {
+    "awards": 1,
+    "name": "Fog of War, TheThe Fog of War (The Fog of War: Eleven Lessons from the Life of Robert S. McNamara)",
+    "nominations": 1,
+    "year": 2003
+  },
+  {
+    "awards": 1,
+    "name": "Folies Bergere",
+    "nominations": 1,
+    "year": 1935
+  },
+  {
+    "awards": 1,
+    "name": "For Scent-imental Reasons",
+    "nominations": 1,
+    "year": 1949
+  },
+  {
+    "awards": 1,
+    "name": "For the Birds",
+    "nominations": 1,
+    "year": 2001
+  },
+  {
+    "awards": 1,
+    "name": "For Whom the Bell Tolls",
+    "nominations": 9,
+    "year": 1943
+  },
+  {
+    "awards": 0,
+    "name": "Forbidden Games",
+    "nominations": 1,
+    "year": 1952
+  },
+  {
+    "awards": 0,
+    "name": "Force in Readiness, AA Force in Readiness",
+    "nominations": 0,
+    "year": 1961
+  },
+  {
+    "awards": 6,
+    "name": "Forrest Gump",
+    "nominations": 13,
+    "year": 1994
+  },
+  {
+    "awards": 1,
+    "name": "Fortune Cookie, TheThe Fortune Cookie",
+    "nominations": 4,
+    "year": 1966
+  },
+  {
+    "awards": 1,
+    "name": "Frank Film",
+    "nominations": 1,
+    "year": 1973
+  },
+  {
+    "awards": 1,
+    "name": "Franz Kafka's It's a Wonderful Life",
+    "nominations": 1,
+    "year": 1994
+  },
+  {
+    "awards": 1,
+    "name": "Free Soul, AA Free Soul",
+    "nominations": 3,
+    "year": 1930
+  },
+  {
+    "awards": 1,
+    "name": "Freeheld",
+    "nominations": 1,
+    "year": 2007
+  },
+  {
+    "awards": 5,
+    "name": "French Connection, TheThe French Connection",
+    "nominations": 8,
+    "year": 1971
+  },
+  {
+    "awards": 1,
+    "name": "Frenchman's Creek",
+    "nominations": 1,
+    "year": 1945
+  },
+  {
+    "awards": 2,
+    "name": "Frida",
+    "nominations": 6,
+    "year": 2002
+  },
+  {
+    "awards": 8,
+    "name": "From Here to Eternity",
+    "nominations": 13,
+    "year": 1953
+  },
+  {
+    "awards": 1,
+    "name": "From Mao to Mozart: Isaac Stern in China",
+    "nominations": 1,
+    "year": 1980
+  },
+  {
+    "awards": 2,
+    "name": "Frozen",
+    "nominations": 2,
+    "year": 2013
+  },
+  {
+    "awards": 1,
+    "name": "Fugitive, TheThe Fugitive",
+    "nominations": 7,
+    "year": 1993
+  },
+  {
+    "awards": 1,
+    "name": "Full Monty, TheThe Full Monty",
+    "nominations": 4,
+    "year": 1997
+  },
+  {
+    "awards": 1,
+    "name": "Funny Girl",
+    "nominations": 8,
+    "year": 1968
+  },
+  {
+    "awards": 1,
+    "name": "Funny Thing Happened on the Way to the Forum, AA Funny Thing Happened on the Way to the Forum",
+    "nominations": 1,
+    "year": 1966
+  },
+  {
+    "awards": 8,
+    "name": "Gandhi",
+    "nominations": 11,
+    "year": 1982
+  },
+  {
+    "awards": 0,
+    "name": "Garden of Allah, TheThe Garden of Allah",
+    "nominations": 2,
+    "year": 1936
+  },
+  {
+    "awards": 1,
+    "name": "Garden of the Finzi-Continis, TheThe Garden of the Finzi-Continis (Il Giardino dei Finzi-Contini)",
+    "nominations": 2,
+    "year": 1971
+  },
+  {
+    "awards": 2,
+    "name": "Gaslight",
+    "nominations": 7,
+    "year": 1944
+  },
+  {
+    "awards": 1,
+    "name": "Gate of Hell (Jigokumon)",
+    "nominations": 1,
+    "year": 1954
+  },
+  {
+    "awards": 1,
+    "name": "Gay Divorcee, TheThe Gay Divorcee",
+    "nominations": 5,
+    "year": 1934
+  },
+  {
+    "awards": 1,
+    "name": "Genocide",
+    "nominations": 1,
+    "year": 1981
+  },
+  {
+    "awards": 3,
+    "name": "Gentleman's Agreement",
+    "nominations": 8,
+    "year": 1947
+  },
+  {
+    "awards": 1,
+    "name": "Gerald McBoing-Boing",
+    "nominations": 1,
+    "year": 1950
+  },
+  {
+    "awards": 1,
+    "name": "Geri's Game",
+    "nominations": 1,
+    "year": 1997
+  },
+  {
+    "awards": 1,
+    "name": "Get Out Your Handkerchiefs (Pr\u00e9parez vos mouchoirs)",
+    "nominations": 1,
+    "year": 1978
+  },
+  {
+    "awards": 2,
+    "name": "Ghost",
+    "nominations": 5,
+    "year": 1990
+  },
+  {
+    "awards": 1,
+    "name": "Ghost and the Darkness, TheThe Ghost and the Darkness",
+    "nominations": 1,
+    "year": 1996
+  },
+  {
+    "awards": 1,
+    "name": "Giant",
+    "nominations": 10,
+    "year": 1956
+  },
+  {
+    "awards": 9,
+    "name": "Gigi",
+    "nominations": 9,
+    "year": 1958
+  },
+  {
+    "awards": 1,
+    "name": "The Girl with the Dragon Tattoo",
+    "nominations": 5,
+    "year": 2011
+  },
+  {
+    "awards": 1,
+    "name": "Girl, Interrupted",
+    "nominations": 1,
+    "year": 1999
+  },
+  {
+    "awards": 1,
+    "name": "Giuseppina",
+    "nominations": 1,
+    "year": 1960
+  },
+  {
+    "awards": 1,
+    "name": "Give Me Liberty",
+    "nominations": 1,
+    "year": 1936
+  },
+  {
+    "awards": 5,
+    "name": "Gladiator",
+    "nominations": 12,
+    "year": 2000
+  },
+  {
+    "awards": 1,
+    "name": "Glass (Glas)",
+    "nominations": 1,
+    "year": 1959
+  },
+  {
+    "awards": 1,
+    "name": "Glenn Miller Story, TheThe Glenn Miller Story",
+    "nominations": 3,
+    "year": 1954
+  },
+  {
+    "awards": 3,
+    "name": "Glory",
+    "nominations": 5,
+    "year": 1989
+  },
+  {
+    "awards": 1,
+    "name": "God of Love",
+    "nominations": 1,
+    "year": 2010
+  },
+  {
+    "awards": 3,
+    "name": "Godfather, TheThe Godfather",
+    "nominations": 10,
+    "year": 1972
+  },
+  {
+    "awards": 6,
+    "name": "Godfather Part II, TheThe Godfather Part II",
+    "nominations": 11,
+    "year": 1974
+  },
+  {
+    "awards": 1,
+    "name": "Gods and Monsters",
+    "nominations": 3,
+    "year": 1998
+  },
+  {
+    "awards": 7,
+    "name": "Going My Way",
+    "nominations": 10,
+    "year": 1944
+  },
+  {
+    "awards": 1,
+    "name": "Gold Diggers of 1935",
+    "nominations": 2,
+    "year": 1935
+  },
+  {
+    "awards": 1,
+    "name": "Golden Compass, TheThe Golden Compass",
+    "nominations": 2,
+    "year": 2007
+  },
+  {
+    "awards": 1,
+    "name": "Golden Fish, TheThe Golden Fish (Histoire d'un poisson rouge)",
+    "nominations": 1,
+    "year": 1959
+  },
+  {
+    "awards": 1,
+    "name": "Goldfinger",
+    "nominations": 1,
+    "year": 1964
+  },
+  {
+    "awards": 8,
+    "name": "Gone with the Wind",
+    "nominations": 13,
+    "year": 1939
+  },
+  {
+    "awards": 2,
+    "name": "Good Earth, TheThe Good Earth",
+    "nominations": 5,
+    "year": 1937
+  },
+  {
+    "awards": 2,
+    "name": "Good Will Hunting",
+    "nominations": 9,
+    "year": 1997
+  },
+  {
+    "awards": 1,
+    "name": "Goodbye Girl, TheThe Goodbye Girl",
+    "nominations": 5,
+    "year": 1977
+  },
+  {
+    "awards": 1,
+    "name": "Goodbye, Miss Turlock",
+    "nominations": 1,
+    "year": 1947
+  },
+  {
+    "awards": 1,
+    "name": "Goodbye, Mr. Chips",
+    "nominations": 7,
+    "year": 1939
+  },
+  {
+    "awards": 1,
+    "name": "Goodfellas",
+    "nominations": 6,
+    "year": 1990
+  },
+  {
+    "awards": 1,
+    "name": "Gosford Park",
+    "nominations": 7,
+    "year": 2001
+  },
+  {
+    "awards": 1,
+    "name": "Graduate, TheThe Graduate",
+    "nominations": 7,
+    "year": 1967
+  },
+  {
+    "awards": 1,
+    "name": "Grand Canyon",
+    "nominations": 1,
+    "year": 1958
+  },
+  {
+    "awards": 1,
+    "name": "Grand Hotel",
+    "nominations": 1,
+    "year": 1931
+  },
+  {
+    "awards": 3,
+    "name": "Grand Prix",
+    "nominations": 3,
+    "year": 1966
+  },
+  {
+    "awards": 1,
+    "name": "Grandad of Races",
+    "nominations": 1,
+    "year": 1950
+  },
+  {
+    "awards": 2,
+    "name": "Grapes of Wrath, TheThe Grapes of Wrath",
+    "nominations": 7,
+    "year": 1940
+  },
+  {
+    "awards": 7,
+    "name": "Gravity",
+    "nominations": 10,
+    "year": 2013
+  },
+  {
+    "awards": 1,
+    "name": "Gravity Is My Enemy",
+    "nominations": 1,
+    "year": 1977
+  },
+  {
+    "awards": 1,
+    "name": "Great (Great (Isambard Kingdom Brunel))",
+    "nominations": 1,
+    "year": 1975
+  },
+  {
+    "awards": 1,
+    "name": "Great American Cowboy, TheThe Great American Cowboy",
+    "nominations": 1,
+    "year": 1973
+  },
+  {
+    "awards": 1,
+    "name": "Great Beauty, TheThe Great Beauty",
+    "nominations": 1,
+    "year": 2013
+  },
+  {
+    "awards": 1,
+    "name": "Great Caruso, TheThe Great Caruso",
+    "nominations": 3,
+    "year": 1951
+  },
+  {
+    "awards": 2,
+    "name": "Great Expectations",
+    "nominations": 5,
+    "year": 1947
+  },
+  {
+    "awards": 2,
+    "name": "Great Gatsby, TheThe Great Gatsby",
+    "nominations": 2,
+    "year": 1974
+  },
+  {
+    "awards": 2,
+    "name": "Great Gatsby, TheThe Great Gatsby",
+    "nominations": 2,
+    "year": 2013
+  },
+  {
+    "awards": 1,
+    "name": "Great Lie, TheThe Great Lie",
+    "nominations": 1,
+    "year": 1941
+  },
+  {
+    "awards": 1,
+    "name": "Great McGinty, TheThe Great McGinty",
+    "nominations": 1,
+    "year": 1940
+  },
+  {
+    "awards": 1,
+    "name": "Great Race, TheThe Great Race",
+    "nominations": 5,
+    "year": 1965
+  },
+  {
+    "awards": 1,
+    "name": "Great Waltz, TheThe Great Waltz",
+    "nominations": 3,
+    "year": 1938
+  },
+  {
+    "awards": 3,
+    "name": "Great Ziegfeld, TheThe Great Ziegfeld",
+    "nominations": 7,
+    "year": 1936
+  },
+  {
+    "awards": 2,
+    "name": "Greatest Show on Earth, TheThe Greatest Show on Earth",
+    "nominations": 5,
+    "year": 1952
+  },
+  {
+    "awards": 1,
+    "name": "Greek Tragedy, AA Greek Tragedy",
+    "nominations": 1,
+    "year": 1986
+  },
+  {
+    "awards": 1,
+    "name": "Green Dolphin Street",
+    "nominations": 4,
+    "year": 1947
+  },
+  {
+    "awards": 2,
+    "name": "Guess Who's Coming to Dinner",
+    "nominations": 10,
+    "year": 1967
+  },
+  {
+    "awards": 1,
+    "name": "Guns of Navarone, TheThe Guns of Navarone",
+    "nominations": 7,
+    "year": 1961
+  },
+  {
+    "awards": 4,
+    "name": "Hamlet",
+    "nominations": 7,
+    "year": 1948
+  },
+  {
+    "awards": 3,
+    "name": "Hannah and Her Sisters",
+    "nominations": 7,
+    "year": 1986
+  },
+  {
+    "awards": 1,
+    "name": "Happy Anniversary (Heureux Anniversaire)",
+    "nominations": 1,
+    "year": 1962
+  },
+  {
+    "awards": 1,
+    "name": "Happy Feet",
+    "nominations": 1,
+    "year": 2006
+  },
+  {
+    "awards": 1,
+    "name": "Harlan County, USA",
+    "nominations": 1,
+    "year": 1976
+  },
+  {
+    "awards": 1,
+    "name": "Harry and the Hendersons",
+    "nominations": 1,
+    "year": 1987
+  },
+  {
+    "awards": 1,
+    "name": "Harry and Tonto",
+    "nominations": 2,
+    "year": 1974
+  },
+  {
+    "awards": 1,
+    "name": "Harvey",
+    "nominations": 2,
+    "year": 1950
+  },
+  {
+    "awards": 1,
+    "name": "Harvey Girls, TheThe Harvey Girls",
+    "nominations": 2,
+    "year": 1946
+  },
+  {
+    "awards": 1,
+    "name": "Harvie Krumpet",
+    "nominations": 1,
+    "year": 2003
+  },
+  {
+    "awards": 1,
+    "name": "He Makes Me Feel Like Dancin'",
+    "nominations": 1,
+    "year": 1983
+  },
+  {
+    "awards": 1,
+    "name": "Hearts and Minds",
+    "nominations": 1,
+    "year": 1974
+  },
+  {
+    "awards": 1,
+    "name": "Heaven Can Wait",
+    "nominations": 9,
+    "year": 1978
+  },
+  {
+    "awards": 1,
+    "name": "Heavenly Music",
+    "nominations": 1,
+    "year": 1943
+  },
+  {
+    "awards": 4,
+    "name": "Heiress, TheThe Heiress",
+    "nominations": 8,
+    "year": 1949
+  },
+  {
+    "awards": 1,
+    "name": "Helen Keller in Her Story (The Unconquered)",
+    "nominations": 1,
+    "year": 1955
+  },
+  {
+    "awards": 1,
+    "name": "Helium",
+    "nominations": 1,
+    "year": 2013
+  },
+  {
+    "awards": 3,
+    "name": "Hello, Dolly!",
+    "nominations": 7,
+    "year": 1969
+  },
+  {
+    "awards": 1,
+    "name": "Hello, Frisco, Hello",
+    "nominations": 2,
+    "year": 1943
+  },
+  {
+    "awards": 1,
+    "name": "Hellstrom Chronicle, TheThe Hellstrom Chronicle",
+    "nominations": 1,
+    "year": 1971
+  },
+  {
+    "awards": 1,
+    "name": "Help, TheThe Help",
+    "nominations": 4,
+    "year": 2011
+  },
+  {
+    "awards": 0,
+    "name": "Henry V",
+    "nominations": 4,
+    "year": 1946
+  },
+  {
+    "awards": 1,
+    "name": "Henry V",
+    "nominations": 3,
+    "year": 1989
+  },
+  {
+    "awards": 1,
+    "name": "Her",
+    "nominations": 5,
+    "year": 2013
+  },
+  {
+    "awards": 1,
+    "name": "A Herb Alpert and the Tijuana Brass Double Feature",
+    "nominations": 1,
+    "year": 1966
+  },
+  {
+    "awards": 2,
+    "name": "Here Comes Mr. Jordan",
+    "nominations": 7,
+    "year": 1941
+  },
+  {
+    "awards": 1,
+    "name": "Here Comes the Groom",
+    "nominations": 2,
+    "year": 1951
+  },
+  {
+    "awards": 1,
+    "name": "High and the Mighty, TheThe High and the Mighty",
+    "nominations": 6,
+    "year": 1954
+  },
+  {
+    "awards": 4,
+    "name": "High Noon",
+    "nominations": 7,
+    "year": 1952
+  },
+  {
+    "awards": 0,
+    "name": "Hindenburg, TheThe Hindenburg",
+    "nominations": 3,
+    "year": 1975
+  },
+  {
+    "awards": 1,
+    "name": "Hitler Lives",
+    "nominations": 1,
+    "year": 1945
+  },
+  {
+    "awards": 1,
+    "name": "Hole in the Head, AA Hole in the Head",
+    "nominations": 1,
+    "year": 1959
+  },
+  {
+    "awards": 1,
+    "name": "Hole, TheThe Hole",
+    "nominations": 1,
+    "year": 1962
+  },
+  {
+    "awards": 1,
+    "name": "Holiday Inn",
+    "nominations": 3,
+    "year": 1942
+  },
+  {
+    "awards": 1,
+    "name": "Horse with the Flying Tail, TheThe Horse with the Flying Tail",
+    "nominations": 1,
+    "year": 1960
+  },
+  {
+    "awards": 1,
+    "name": "Hospital, TheThe Hospital",
+    "nominations": 2,
+    "year": 1971
+  },
+  {
+    "awards": 1,
+    "name": "Hotel Terminus: The Life and Times of Klaus Barbie",
+    "nominations": 1,
+    "year": 1988
+  },
+  {
+    "awards": 1,
+    "name": "Hours, TheThe Hours",
+    "nominations": 9,
+    "year": 2002
+  },
+  {
+    "awards": 0,
+    "name": "House I Live In, TheThe House I Live In",
+    "nominations": 0,
+    "year": 1945
+  },
+  {
+    "awards": 1,
+    "name": "House of Small Cubes, TheThe House of Small Cubes (La Maison en Petits Cubes)",
+    "nominations": 1,
+    "year": 2008
+  },
+  {
+    "awards": 1,
+    "name": "House on 92nd Street, TheThe House on 92nd Street",
+    "nominations": 1,
+    "year": 1945
+  },
+  {
+    "awards": 5,
+    "name": "How Green Was My Valley",
+    "nominations": 10,
+    "year": 1941
+  },
+  {
+    "awards": 3,
+    "name": "How the West Was Won",
+    "nominations": 8,
+    "year": 1963
+  },
+  {
+    "awards": 1,
+    "name": "How to Sleep",
+    "nominations": 1,
+    "year": 1935
+  },
+  {
+    "awards": 3,
+    "name": "Howards End",
+    "nominations": 9,
+    "year": 1992
+  },
+  {
+    "awards": 3,
+    "name": "Hud",
+    "nominations": 7,
+    "year": 1963
+  },
+  {
+    "awards": 5,
+    "name": "Hugo",
+    "nominations": 11,
+    "year": 2011
+  },
+  {
+    "awards": 1,
+    "name": "Human Comedy, TheThe Human Comedy",
+    "nominations": 5,
+    "year": 1943
+  },
+  {
+    "awards": 1,
+    "name": "Hunt for Red October, TheThe Hunt for Red October",
+    "nominations": 3,
+    "year": 1990
+  },
+  {
+    "awards": 1,
+    "name": "Hurricane, TheThe Hurricane",
+    "nominations": 3,
+    "year": 1937
+  },
+  {
+    "awards": 6,
+    "name": "Hurt Locker, TheThe Hurt Locker",
+    "nominations": 9,
+    "year": 2009
+  },
+  {
+    "awards": 1,
+    "name": "Hustle & Flow",
+    "nominations": 2,
+    "year": 2005
+  },
+  {
+    "awards": 2,
+    "name": "Hustler, TheThe Hustler",
+    "nominations": 9,
+    "year": 1961
+  },
+  {
+    "awards": 1,
+    "name": "I Am a Promise: The Children of Stanton Elementary School",
+    "nominations": 1,
+    "year": 1993
+  },
+  {
+    "awards": 1,
+    "name": "I Want to Live!",
+    "nominations": 6,
+    "year": 1958
+  },
+  {
+    "awards": 1,
+    "name": "I Wanted Wings",
+    "nominations": 1,
+    "year": 1941
+  },
+  {
+    "awards": 1,
+    "name": "I Won't Play",
+    "nominations": 1,
+    "year": 1944
+  },
+  {
+    "awards": 1,
+    "name": "If You Love This Planet",
+    "nominations": 1,
+    "year": 1982
+  },
+  {
+    "awards": 1,
+    "name": "Postino, IlIl Postino (The Postman)",
+    "nominations": 5,
+    "year": 1995
+  },
+  {
+    "awards": 1,
+    "name": "I'll Cry Tomorrow",
+    "nominations": 4,
+    "year": 1955
+  },
+  {
+    "awards": 1,
+    "name": "I'll Find a Way",
+    "nominations": 1,
+    "year": 1977
+  },
+  {
+    "awards": 1,
+    "name": "In a Better World",
+    "nominations": 1,
+    "year": 2010
+  },
+  {
+    "awards": 1,
+    "name": "In Beaver Valley",
+    "nominations": 1,
+    "year": 1950
+  },
+  {
+    "awards": 1,
+    "name": "In Old Arizona",
+    "nominations": 5,
+    "year": 1928
+  },
+  {
+    "awards": 2,
+    "name": "In Old Chicago",
+    "nominations": 6,
+    "year": 1937
+  },
+  {
+    "awards": 5,
+    "name": "In the Heat of the Night",
+    "nominations": 7,
+    "year": 1967
+  },
+  {
+    "awards": 1,
+    "name": "In the Region of Ice",
+    "nominations": 1,
+    "year": 1976
+  },
+  {
+    "awards": 1,
+    "name": "In the Shadow of the Stars",
+    "nominations": 1,
+    "year": 1991
+  },
+  {
+    "awards": 0,
+    "name": "In Which We Serve",
+    "nominations": 2,
+    "year": 1942
+  },
+  {
+    "awards": 4,
+    "name": "Inception",
+    "nominations": 8,
+    "year": 2010
+  },
+  {
+    "awards": 2,
+    "name": "Inconvenient Truth, AnAn Inconvenient Truth",
+    "nominations": 2,
+    "year": 2006
+  },
+  {
+    "awards": 2,
+    "name": "Incredibles, TheThe Incredibles",
+    "nominations": 4,
+    "year": 2004
+  },
+  {
+    "awards": 1,
+    "name": "Independence Day",
+    "nominations": 2,
+    "year": 1996
+  },
+  {
+    "awards": 1,
+    "name": "Indiana Jones and the Last Crusade",
+    "nominations": 3,
+    "year": 1989
+  },
+  {
+    "awards": 1,
+    "name": "Indiana Jones and the Temple of Doom",
+    "nominations": 2,
+    "year": 1984
+  },
+  {
+    "awards": 1,
+    "name": "Indochine",
+    "nominations": 2,
+    "year": 1992
+  },
+  {
+    "awards": 4,
+    "name": "Informer, TheThe Informer",
+    "nominations": 6,
+    "year": 1935
+  },
+  {
+    "awards": 1,
+    "name": "Inglourious Basterds",
+    "nominations": 8,
+    "year": 2009
+  },
+  {
+    "awards": 1,
+    "name": "Innerspace",
+    "nominations": 1,
+    "year": 1987
+  },
+  {
+    "awards": 1,
+    "name": "Inocente",
+    "nominations": 1,
+    "year": 2012
+  },
+  {
+    "awards": 1,
+    "name": "Inside Job",
+    "nominations": 1,
+    "year": 2010
+  },
+  {
+    "awards": 1,
+    "name": "Interrupted Melody",
+    "nominations": 3,
+    "year": 1955
+  },
+  {
+    "awards": 1,
+    "name": "Interviews with My Lai Veterans",
+    "nominations": 1,
+    "year": 1970
+  },
+  {
+    "awards": 1,
+    "name": "Into the Arms of Strangers: Stories of the Kindertransport",
+    "nominations": 1,
+    "year": 2000
+  },
+  {
+    "awards": 1,
+    "name": "Invaders !The Invaders",
+    "nominations": 3,
+    "year": 1942
+  },
+  {
+    "awards": 1,
+    "name": "Investigation of a Citizen Above Suspicion (Indagine su un cittadino al di sopra di ogni sospetto)",
+    "nominations": 2,
+    "year": 1970
+  },
+  {
+    "awards": 1,
+    "name": "Iris",
+    "nominations": 3,
+    "year": 2001
+  },
+  {
+    "awards": 1,
+    "name": "Irma la Douce",
+    "nominations": 3,
+    "year": 1963
+  },
+  {
+    "awards": 2,
+    "name": "The Iron Lady",
+    "nominations": 2,
+    "year": 2011
+  },
+  {
+    "awards": 1,
+    "name": "Is It Always Right to Be Right?",
+    "nominations": 1,
+    "year": 1970
+  },
+  {
+    "awards": 5,
+    "name": "It Happened One Night",
+    "nominations": 5,
+    "year": 1934
+  },
+  {
+    "awards": 1,
+    "name": "It's a Mad, Mad, Mad, Mad World",
+    "nominations": 6,
+    "year": 1963
+  },
+  {
+    "awards": 1,
+    "name": "It's Tough to Be a Bird",
+    "nominations": 1,
+    "year": 1969
+  },
+  {
+    "awards": 3,
+    "name": "Jaws",
+    "nominations": 4,
+    "year": 1975
+  },
+  {
+    "awards": 0,
+    "name": "Jazz Singer, TheThe Jazz Singer",
+    "nominations": 1,
+    "year": 1927
+  },
+  {
+    "awards": 1,
+    "name": "Jerry Maguire",
+    "nominations": 5,
+    "year": 1996
+  },
+  {
+    "awards": 2,
+    "name": "Jezebel",
+    "nominations": 5,
+    "year": 1938
+  },
+  {
+    "awards": 2,
+    "name": "JFK",
+    "nominations": 8,
+    "year": 1991
+  },
+  {
+    "awards": 2,
+    "name": "Joan of Arc",
+    "nominations": 7,
+    "year": 1948
+  },
+  {
+    "awards": 1,
+    "name": "Johann Mouse",
+    "nominations": 1,
+    "year": 1952
+  },
+  {
+    "awards": 1,
+    "name": "Johnny Belinda",
+    "nominations": 12,
+    "year": 1948
+  },
+  {
+    "awards": 1,
+    "name": "Johnny Eager",
+    "nominations": 1,
+    "year": 1942
+  },
+  {
+    "awards": 1,
+    "name": "Johnstown Flood, TheThe Johnstown Flood",
+    "nominations": 1,
+    "year": 1989
+  },
+  {
+    "awards": 1,
+    "name": "Joker Is Wild, TheThe Joker Is Wild",
+    "nominations": 1,
+    "year": 1957
+  },
+  {
+    "awards": 2,
+    "name": "Jolson Story, TheThe Jolson Story",
+    "nominations": 6,
+    "year": 1946
+  },
+  {
+    "awards": 1,
+    "name": "Journey into Self",
+    "nominations": 1,
+    "year": 1968
+  },
+  {
+    "awards": 1,
+    "name": "Journey of Hope (Reise der Hoffnung)",
+    "nominations": 1,
+    "year": 1990
+  },
+  {
+    "awards": 2,
+    "name": "Judgment at Nuremberg",
+    "nominations": 11,
+    "year": 1961
+  },
+  {
+    "awards": 3,
+    "name": "Julia",
+    "nominations": 11,
+    "year": 1977
+  },
+  {
+    "awards": 1,
+    "name": "Julius Caesar",
+    "nominations": 5,
+    "year": 1953
+  },
+  {
+    "awards": 1,
+    "name": "Juno",
+    "nominations": 4,
+    "year": 2007
+  },
+  {
+    "awards": 3,
+    "name": "Jurassic Park",
+    "nominations": 3,
+    "year": 1993
+  },
+  {
+    "awards": 1,
+    "name": "Just Another Missing Kid",
+    "nominations": 1,
+    "year": 1982
+  },
+  {
+    "awards": 1,
+    "name": "Karl Hess: Toward Liberty",
+    "nominations": 1,
+    "year": 1980
+  },
+  {
+    "awards": 1,
+    "name": "Kentucky",
+    "nominations": 1,
+    "year": 1938
+  },
+  {
+    "awards": 1,
+    "name": "Key Largo",
+    "nominations": 1,
+    "year": 1948
+  },
+  {
+    "awards": 3,
+    "name": "Killing Fields, TheThe Killing Fields",
+    "nominations": 7,
+    "year": 1984
+  },
+  {
+    "awards": 5,
+    "name": "King and I, TheThe King and I",
+    "nominations": 9,
+    "year": 1956
+  },
+  {
+    "awards": 1,
+    "name": "King Gimp",
+    "nominations": 1,
+    "year": 1999
+  },
+  {
+    "awards": 0,
+    "name": "King Kong",
+    "nominations": 2,
+    "year": 1976
+  },
+  {
+    "awards": 3,
+    "name": "King Kong",
+    "nominations": 4,
+    "year": 2005
+  },
+  {
+    "awards": 1,
+    "name": "King of Jazz",
+    "nominations": 1,
+    "year": 1929
+  },
+  {
+    "awards": 2,
+    "name": "King Solomon's Mines",
+    "nominations": 3,
+    "year": 1950
+  },
+  {
+    "awards": 4,
+    "name": "King's Speech, TheThe King's Speech",
+    "nominations": 12,
+    "year": 2010
+  },
+  {
+    "awards": 1,
+    "name": "Kiss of the Spider Woman",
+    "nominations": 4,
+    "year": 1985
+  },
+  {
+    "awards": 1,
+    "name": "Kitty Foyle (Kitty Foyle: The Natural History of a Woman)",
+    "nominations": 5,
+    "year": 1940
+  },
+  {
+    "awards": 1,
+    "name": "Klute",
+    "nominations": 2,
+    "year": 1971
+  },
+  {
+    "awards": 1,
+    "name": "Knighty Knight Bugs",
+    "nominations": 1,
+    "year": 1958
+  },
+  {
+    "awards": 1,
+    "name": "Kokoda Front Line",
+    "nominations": 1,
+    "year": 1942
+  },
+  {
+    "awards": 1,
+    "name": "Kolya",
+    "nominations": 1,
+    "year": 1996
+  },
+  {
+    "awards": 1,
+    "name": "Kon-Tiki",
+    "nominations": 1,
+    "year": 1951
+  },
+  {
+    "awards": 1,
+    "name": "Krakatoa",
+    "nominations": 1,
+    "year": 1932
+  },
+  {
+    "awards": 5,
+    "name": "Kramer vs. Kramer",
+    "nominations": 9,
+    "year": 1979
+  },
+  {
+    "awards": 0,
+    "name": "Kukan",
+    "nominations": 0,
+    "year": 1941
+  },
+  {
+    "awards": 2,
+    "name": "L.A. Confidential",
+    "nominations": 9,
+    "year": 1997
+  },
+  {
+    "awards": 1,
+    "name": "Strada, LaLa Strada (The Road)",
+    "nominations": 2,
+    "year": 1956
+  },
+  {
+    "awards": 1,
+    "name": "Dolce Vita, LaLa Dolce Vita",
+    "nominations": 4,
+    "year": 1961
+  },
+  {
+    "awards": 2,
+    "name": "Vie en rose, LaLa Vie en rose",
+    "nominations": 3,
+    "year": 2007
+  },
+  {
+    "awards": 1,
+    "name": "Lady Be Good",
+    "nominations": 1,
+    "year": 1941
+  },
+  {
+    "awards": 1,
+    "name": "Lady in Number 6: Music Saved My Life, TheThe Lady in Number 6: Music Saved My Life",
+    "nominations": 1,
+    "year": 2013
+  },
+  {
+    "awards": 1,
+    "name": "Last Command, TheThe Last Command",
+    "nominations": 2,
+    "year": 1927
+  },
+  {
+    "awards": 1,
+    "name": "Last Days, TheThe Last Days",
+    "nominations": 1,
+    "year": 1998
+  },
+  {
+    "awards": 9,
+    "name": "Last Emperor, TheThe Last Emperor",
+    "nominations": 9,
+    "year": 1987
+  },
+  {
+    "awards": 1,
+    "name": "Last King of Scotland, TheThe Last King of Scotland",
+    "nominations": 1,
+    "year": 2006
+  },
+  {
+    "awards": 1,
+    "name": "Last of the Mohicans, TheThe Last of the Mohicans",
+    "nominations": 1,
+    "year": 1992
+  },
+  {
+    "awards": 2,
+    "name": "Last Picture Show, TheThe Last Picture Show",
+    "nominations": 8,
+    "year": 1971
+  },
+  {
+    "awards": 1,
+    "name": "Laura",
+    "nominations": 5,
+    "year": 1944
+  },
+  {
+    "awards": 1,
+    "name": "Lavender Hill Mob, TheThe Lavender Hill Mob",
+    "nominations": 2,
+    "year": 1952
+  },
+  {
+    "awards": 7,
+    "name": "Lawrence of Arabia",
+    "nominations": 10,
+    "year": 1962
+  },
+  {
+    "awards": 1,
+    "name": "Leave Her to Heaven",
+    "nominations": 4,
+    "year": 1945
+  },
+  {
+    "awards": 1,
+    "name": "Leaving Las Vegas",
+    "nominations": 4,
+    "year": 1995
+  },
+  {
+    "awards": 1,
+    "name": "Legends of the Fall",
+    "nominations": 3,
+    "year": 1994
+  },
+  {
+    "awards": 1,
+    "name": "Leisure",
+    "nominations": 1,
+    "year": 1976
+  },
+  {
+    "awards": 1,
+    "name": "Lemony Snicket's A Series of Unfortunate Events",
+    "nominations": 4,
+    "year": 2004
+  },
+  {
+    "awards": 1,
+    "name": "Lend a Paw",
+    "nominations": 1,
+    "year": 1941
+  },
+  {
+    "awards": 1,
+    "name": "Les Girls",
+    "nominations": 3,
+    "year": 1957
+  },
+  {
+    "awards": 3,
+    "name": "Les Mis\u00e9rables",
+    "nominations": 8,
+    "year": 2012
+  },
+  {
+    "awards": 1,
+    "name": "Let It Be",
+    "nominations": 1,
+    "year": 1970
+  },
+  {
+    "awards": 2,
+    "name": "Letter to Three Wives, AA Letter to Three Wives",
+    "nominations": 3,
+    "year": 1949
+  },
+  {
+    "awards": 1,
+    "name": "Letters from Iwo Jima",
+    "nominations": 4,
+    "year": 2006
+  },
+  {
+    "awards": 1,
+    "name": "Lieberman in Love",
+    "nominations": 1,
+    "year": 1995
+  },
+  {
+    "awards": 3,
+    "name": "Life Is Beautiful (La vita \u00e8 bella)",
+    "nominations": 7,
+    "year": 1998
+  },
+  {
+    "awards": 3,
+    "name": "Life of Emile Zola, TheThe Life of Emile Zola",
+    "nominations": 10,
+    "year": 1937
+  },
+  {
+    "awards": 4,
+    "name": "Life of Pi",
+    "nominations": 11,
+    "year": 2012
+  },
+  {
+    "awards": 1,
+    "name": "Light in the Window",
+    "nominations": 1,
+    "year": 1952
+  },
+  {
+    "awards": 1,
+    "name": "Lili",
+    "nominations": 6,
+    "year": 1953
+  },
+  {
+    "awards": 1,
+    "name": "Lilies of the Field",
+    "nominations": 5,
+    "year": 1963
+  },
+  {
+    "awards": 1,
+    "name": "Limelight",
+    "nominations": 1,
+    "year": 1972
+  },
+  {
+    "awards": 2,
+    "name": "Lincoln",
+    "nominations": 12,
+    "year": 2012
+  },
+  {
+    "awards": 3,
+    "name": "Lion in Winter, TheThe Lion in Winter",
+    "nominations": 7,
+    "year": 1968
+  },
+  {
+    "awards": 2,
+    "name": "Lion King, TheThe Lion King",
+    "nominations": 4,
+    "year": 1994
+  },
+  {
+    "awards": 0,
+    "name": "Little Kidnappers, TheThe Little Kidnappers",
+    "nominations": 0,
+    "year": 1954
+  },
+  {
+    "awards": 2,
+    "name": "Little Mermaid, TheThe Little Mermaid",
+    "nominations": 3,
+    "year": 1989
+  },
+  {
+    "awards": 2,
+    "name": "Little Miss Sunshine",
+    "nominations": 4,
+    "year": 2006
+  },
+  {
+    "awards": 1,
+    "name": "Little Night Music, AA Little Night Music",
+    "nominations": 2,
+    "year": 1977
+  },
+  {
+    "awards": 1,
+    "name": "Little Orphan, TheThe Little Orphan",
+    "nominations": 1,
+    "year": 1948
+  },
+  {
+    "awards": 1,
+    "name": "Little Romance, AA Little Romance",
+    "nominations": 2,
+    "year": 1979
+  },
+  {
+    "awards": 1,
+    "name": "Little Women",
+    "nominations": 3,
+    "year": 1932
+  },
+  {
+    "awards": 1,
+    "name": "Little Women",
+    "nominations": 2,
+    "year": 1949
+  },
+  {
+    "awards": 1,
+    "name": "Lives of a Bengal Lancer, TheThe Lives of a Bengal Lancer",
+    "nominations": 7,
+    "year": 1935
+  },
+  {
+    "awards": 1,
+    "name": "Lives of Others, TheThe Lives of Others (Das Leben der Anderen)",
+    "nominations": 1,
+    "year": 2006
+  },
+  {
+    "awards": 1,
+    "name": "Living Desert, TheThe Living Desert",
+    "nominations": 1,
+    "year": 1953
+  },
+  {
+    "awards": 0,
+    "name": "Logan's Run",
+    "nominations": 2,
+    "year": 1976
+  },
+  {
+    "awards": 1,
+    "name": "Logorama",
+    "nominations": 1,
+    "year": 2009
+  },
+  {
+    "awards": 1,
+    "name": "Long Way Home, TheThe Long Way Home",
+    "nominations": 1,
+    "year": 1997
+  },
+  {
+    "awards": 2,
+    "name": "Longest Day, TheThe Longest Day",
+    "nominations": 5,
+    "year": 1962
+  },
+  {
+    "awards": 4,
+    "name": "Lord of the Rings: The Fellowship of the Ring, TheThe Lord of the Rings: The Fellowship of the Ring",
+    "nominations": 13,
+    "year": 2001
+  },
+  {
+    "awards": 11,
+    "name": "Lord of the Rings: The Return of the King, TheThe Lord of the Rings: The Return of the King",
+    "nominations": 11,
+    "year": 2003
+  },
+  {
+    "awards": 2,
+    "name": "Lord of the Rings: The Two Towers, TheThe Lord of the Rings: The Two Towers",
+    "nominations": 6,
+    "year": 2002
+  },
+  {
+    "awards": 2,
+    "name": "Lost Horizon",
+    "nominations": 7,
+    "year": 1937
+  },
+  {
+    "awards": 1,
+    "name": "Lost in Translation",
+    "nominations": 4,
+    "year": 2003
+  },
+  {
+    "awards": 1,
+    "name": "Lost Thing, TheThe Lost Thing",
+    "nominations": 1,
+    "year": 2010
+  },
+  {
+    "awards": 4,
+    "name": "Lost Weekend, TheThe Lost Weekend",
+    "nominations": 7,
+    "year": 1945
+  },
+  {
+    "awards": 3,
+    "name": "Love Is a Many-Splendored Thing",
+    "nominations": 8,
+    "year": 1955
+  },
+  {
+    "awards": 1,
+    "name": "Love Me or Leave Me",
+    "nominations": 6,
+    "year": 1955
+  },
+  {
+    "awards": 1,
+    "name": "Love Story",
+    "nominations": 7,
+    "year": 1970
+  },
+  {
+    "awards": 1,
+    "name": "Lovers and Other Strangers",
+    "nominations": 3,
+    "year": 1970
+  },
+  {
+    "awards": 1,
+    "name": "Lunch Date, TheThe Lunch Date",
+    "nominations": 1,
+    "year": 1990
+  },
+  {
+    "awards": 1,
+    "name": "Lust for Life",
+    "nominations": 4,
+    "year": 1956
+  },
+  {
+    "awards": 1,
+    "name": "Madame Rosa (La Vie devant soi)",
+    "nominations": 1,
+    "year": 1977
+  },
+  {
+    "awards": 1,
+    "name": "Madness of King George, TheThe Madness of King George",
+    "nominations": 4,
+    "year": 1994
+  },
+  {
+    "awards": 1,
+    "name": "Magic Machines, TheThe Magic Machines",
+    "nominations": 2,
+    "year": 1969
+  },
+  {
+    "awards": 1,
+    "name": "Magoo's Puddle Jumper",
+    "nominations": 1,
+    "year": 1956
+  },
+  {
+    "awards": 1,
+    "name": "Main Street on the March!",
+    "nominations": 1,
+    "year": 1941
+  },
+  {
+    "awards": 2,
+    "name": "Man and a Woman, AA Man and a Woman",
+    "nominations": 4,
+    "year": 1966
+  },
+  {
+    "awards": 6,
+    "name": "Man for All Seasons, AA Man for All Seasons",
+    "nominations": 8,
+    "year": 1966
+  },
+  {
+    "awards": 1,
+    "name": "Man on Wire",
+    "nominations": 1,
+    "year": 2008
+  },
+  {
+    "awards": 1,
+    "name": "Man Who Knew Too Much, TheThe Man Who Knew Too Much",
+    "nominations": 1,
+    "year": 1956
+  },
+  {
+    "awards": 1,
+    "name": "Man Who Planted Trees, TheThe Man Who Planted Trees (L' Homme qui plantait des arbres)",
+    "nominations": 1,
+    "year": 1987
+  },
+  {
+    "awards": 1,
+    "name": "Man Who Skied Down Everest, TheThe Man Who Skied Down Everest",
+    "nominations": 1,
+    "year": 1975
+  },
+  {
+    "awards": 1,
+    "name": "Manhattan Melodrama",
+    "nominations": 1,
+    "year": 1934
+  },
+  {
+    "awards": 1,
+    "name": "Manipulation",
+    "nominations": 1,
+    "year": 1991
+  },
+  {
+    "awards": 1,
+    "name": "March of the Penguins (La Marche de l'empereur)",
+    "nominations": 1,
+    "year": 2005
+  },
+  {
+    "awards": 1,
+    "name": "Marie Antoinette",
+    "nominations": 1,
+    "year": 2006
+  },
+  {
+    "awards": 1,
+    "name": "Marie-Louise",
+    "nominations": 1,
+    "year": 1945
+  },
+  {
+    "awards": 1,
+    "name": "Marjoe",
+    "nominations": 1,
+    "year": 1972
+  },
+  {
+    "awards": 1,
+    "name": "Marooned",
+    "nominations": 3,
+    "year": 1969
+  },
+  {
+    "awards": 4,
+    "name": "Marty",
+    "nominations": 8,
+    "year": 1955
+  },
+  {
+    "awards": 5,
+    "name": "Mary Poppins",
+    "nominations": 13,
+    "year": 1964
+  },
+  {
+    "awards": 1,
+    "name": "M*A*S*H",
+    "nominations": 5,
+    "year": 1970
+  },
+  {
+    "awards": 1,
+    "name": "Mask",
+    "nominations": 1,
+    "year": 1985
+  },
+  {
+    "awards": 2,
+    "name": "Master and Commander: The Far Side of the World",
+    "nominations": 10,
+    "year": 2003
+  },
+  {
+    "awards": 4,
+    "name": "Matrix, TheThe Matrix",
+    "nominations": 4,
+    "year": 1999
+  },
+  {
+    "awards": 1,
+    "name": "Maya Lin: A Strong Clear Vision",
+    "nominations": 1,
+    "year": 1994
+  },
+  {
+    "awards": 1,
+    "name": "Mediterraneo",
+    "nominations": 1,
+    "year": 1991
+  },
+  {
+    "awards": 2,
+    "name": "Melvin and Howard",
+    "nominations": 3,
+    "year": 1980
+  },
+  {
+    "awards": 3,
+    "name": "Memoirs of a Geisha",
+    "nominations": 6,
+    "year": 2005
+  },
+  {
+    "awards": 1,
+    "name": "Men Against the Arctic",
+    "nominations": 1,
+    "year": 1955
+  },
+  {
+    "awards": 1,
+    "name": "Men in Black",
+    "nominations": 3,
+    "year": 1997
+  },
+  {
+    "awards": 1,
+    "name": "Mephisto",
+    "nominations": 1,
+    "year": 1981
+  },
+  {
+    "awards": 1,
+    "name": "Merry Widow, TheThe Merry Widow",
+    "nominations": 1,
+    "year": 1934
+  },
+  {
+    "awards": 1,
+    "name": "Michael Clayton",
+    "nominations": 7,
+    "year": 2007
+  },
+  {
+    "awards": 3,
+    "name": "Midnight Cowboy",
+    "nominations": 7,
+    "year": 1969
+  },
+  {
+    "awards": 2,
+    "name": "Midnight Express",
+    "nominations": 6,
+    "year": 1978
+  },
+  {
+    "awards": 1,
+    "name": "Midnight in Paris",
+    "nominations": 4,
+    "year": 2011
+  },
+  {
+    "awards": 2,
+    "name": "Midsummer Night's Dream, AA Midsummer Night's Dream",
+    "nominations": 4,
+    "year": 1935
+  },
+  {
+    "awards": 1,
+    "name": "Mighty Aphrodite",
+    "nominations": 2,
+    "year": 1995
+  },
+  {
+    "awards": 1,
+    "name": "Mighty Joe Young",
+    "nominations": 1,
+    "year": 1949
+  },
+  {
+    "awards": 1,
+    "name": "Mighty Times: The Children's March",
+    "nominations": 1,
+    "year": 2004
+  },
+  {
+    "awards": 1,
+    "name": "Milagro Beanfield War, TheThe Milagro Beanfield War",
+    "nominations": 1,
+    "year": 1988
+  },
+  {
+    "awards": 1,
+    "name": "Mildred Pierce",
+    "nominations": 6,
+    "year": 1945
+  },
+  {
+    "awards": 2,
+    "name": "Milk",
+    "nominations": 8,
+    "year": 2008
+  },
+  {
+    "awards": 1,
+    "name": "Milky Way, TheThe Milky Way",
+    "nominations": 1,
+    "year": 1940
+  },
+  {
+    "awards": 4,
+    "name": "Million Dollar Baby",
+    "nominations": 7,
+    "year": 2004
+  },
+  {
+    "awards": 1,
+    "name": "Min and Bill",
+    "nominations": 1,
+    "year": 1930
+  },
+  {
+    "awards": 3,
+    "name": "Miracle on 34th Street",
+    "nominations": 4,
+    "year": 1947
+  },
+  {
+    "awards": 2,
+    "name": "Miracle Worker, TheThe Miracle Worker",
+    "nominations": 5,
+    "year": 1962
+  },
+  {
+    "awards": 1,
+    "name": "Misery",
+    "nominations": 1,
+    "year": 1990
+  },
+  {
+    "awards": 1,
+    "name": "Missing",
+    "nominations": 4,
+    "year": 1982
+  },
+  {
+    "awards": 1,
+    "name": "Mission, TheThe Mission",
+    "nominations": 7,
+    "year": 1986
+  },
+  {
+    "awards": 1,
+    "name": "Mississippi Burning",
+    "nominations": 7,
+    "year": 1988
+  },
+  {
+    "awards": 1,
+    "name": "Mister Roberts",
+    "nominations": 3,
+    "year": 1955
+  },
+  {
+    "awards": 1,
+    "name": "Molly's Pilgrim",
+    "nominations": 1,
+    "year": 1985
+  },
+  {
+    "awards": 1,
+    "name": "Mona Lisa Descending a Staircase",
+    "nominations": 1,
+    "year": 1992
+  },
+  {
+    "awards": 0,
+    "name": "Monsieur Vincent",
+    "nominations": 0,
+    "year": 1948
+  },
+  {
+    "awards": 1,
+    "name": "Monster",
+    "nominations": 1,
+    "year": 2003
+  },
+  {
+    "awards": 1,
+    "name": "Monster's Ball",
+    "nominations": 2,
+    "year": 2001
+  },
+  {
+    "awards": 1,
+    "name": "Monsters, Inc.",
+    "nominations": 4,
+    "year": 2001
+  },
+  {
+    "awards": 1,
+    "name": "Moon and the Son: An Imagined Conversation, TheThe Moon and the Son: An Imagined Conversation",
+    "nominations": 1,
+    "year": 2005
+  },
+  {
+    "awards": 1,
+    "name": "Moonbird",
+    "nominations": 1,
+    "year": 1959
+  },
+  {
+    "awards": 3,
+    "name": "Moonstruck",
+    "nominations": 6,
+    "year": 1987
+  },
+  {
+    "awards": 1,
+    "name": "More the Merrier, TheThe More the Merrier",
+    "nominations": 6,
+    "year": 1943
+  },
+  {
+    "awards": 1,
+    "name": "Morning Glory",
+    "nominations": 1,
+    "year": 1932
+  },
+  {
+    "awards": 1,
+    "name": "Moscow Does Not Believe in Tears",
+    "nominations": 1,
+    "year": 1980
+  },
+  {
+    "awards": 1,
+    "name": "Moscow Strikes Back",
+    "nominations": 1,
+    "year": 1942
+  },
+  {
+    "awards": 1,
+    "name": "Mother Wore Tights",
+    "nominations": 3,
+    "year": 1947
+  },
+  {
+    "awards": 1,
+    "name": "Motorcycle Diaries, TheThe Motorcycle Diaries",
+    "nominations": 2,
+    "year": 2004
+  },
+  {
+    "awards": 2,
+    "name": "Moulin Rouge",
+    "nominations": 7,
+    "year": 1952
+  },
+  {
+    "awards": 2,
+    "name": "Moulin Rouge!",
+    "nominations": 8,
+    "year": 2001
+  },
+  {
+    "awards": 1,
+    "name": "Mouse Trouble",
+    "nominations": 1,
+    "year": 1944
+  },
+  {
+    "awards": 1,
+    "name": "Mozart of Pickpockets, TheThe Mozart of Pickpockets (Le Mozart des Pickpockets)",
+    "nominations": 1,
+    "year": 2007
+  },
+  {
+    "awards": 1,
+    "name": "Mr. Deeds Goes to Town",
+    "nominations": 5,
+    "year": 1936
+  },
+  {
+    "awards": 1,
+    "name": "Mr Hublot",
+    "nominations": 1,
+    "year": 2013
+  },
+  {
+    "awards": 1,
+    "name": "Mr. Smith Goes to Washington",
+    "nominations": 11,
+    "year": 1939
+  },
+  {
+    "awards": 1,
+    "name": "Mrs. Doubtfire",
+    "nominations": 1,
+    "year": 1993
+  },
+  {
+    "awards": 6,
+    "name": "Mrs. Miniver",
+    "nominations": 12,
+    "year": 1942
+  },
+  {
+    "awards": 1,
+    "name": "Munro",
+    "nominations": 1,
+    "year": 1960
+  },
+  {
+    "awards": 1,
+    "name": "The Muppets",
+    "nominations": 1,
+    "year": 2011
+  },
+  {
+    "awards": 1,
+    "name": "Murder on a Sunday Morning (Un coupable id\u00e9al)",
+    "nominations": 1,
+    "year": 2001
+  },
+  {
+    "awards": 1,
+    "name": "Murder on the Orient Express",
+    "nominations": 6,
+    "year": 1974
+  },
+  {
+    "awards": 1,
+    "name": "Music Box, TheThe Music Box",
+    "nominations": 1,
+    "year": 1931
+  },
+  {
+    "awards": 1,
+    "name": "Music by Prudence",
+    "nominations": 1,
+    "year": 2009
+  },
+  {
+    "awards": 1,
+    "name": "Music Man, TheThe Music Man",
+    "nominations": 6,
+    "year": 1962
+  },
+  {
+    "awards": 1,
+    "name": "Mutiny on the Bounty",
+    "nominations": 8,
+    "year": 1935
+  },
+  {
+    "awards": 1,
+    "name": "My Cousin Vinny",
+    "nominations": 1,
+    "year": 1992
+  },
+  {
+    "awards": 8,
+    "name": "My Fair Lady",
+    "nominations": 12,
+    "year": 1964
+  },
+  {
+    "awards": 1,
+    "name": "My Gal Sal",
+    "nominations": 2,
+    "year": 1942
+  },
+  {
+    "awards": 2,
+    "name": "My Left Foot",
+    "nominations": 5,
+    "year": 1989
+  },
+  {
+    "awards": 1,
+    "name": "My Mother Dreams the Satan's Disciples in New York",
+    "nominations": 1,
+    "year": 1999
+  },
+  {
+    "awards": 1,
+    "name": "My Uncle (Mon oncle)",
+    "nominations": 1,
+    "year": 1958
+  },
+  {
+    "awards": 2,
+    "name": "Mystic River",
+    "nominations": 6,
+    "year": 2003
+  },
+  {
+    "awards": 2,
+    "name": "Naked City, TheThe Naked City",
+    "nominations": 3,
+    "year": 1948
+  },
+  {
+    "awards": 1,
+    "name": "Nashville",
+    "nominations": 5,
+    "year": 1975
+  },
+  {
+    "awards": 2,
+    "name": "National Velvet",
+    "nominations": 5,
+    "year": 1945
+  },
+  {
+    "awards": 1,
+    "name": "Nature's Half Acre",
+    "nominations": 1,
+    "year": 1951
+  },
+  {
+    "awards": 1,
+    "name": "Naughty Marietta",
+    "nominations": 2,
+    "year": 1935
+  },
+  {
+    "awards": 1,
+    "name": "Neighbours",
+    "nominations": 2,
+    "year": 1952
+  },
+  {
+    "awards": 1,
+    "name": "Neptune's Daughter",
+    "nominations": 1,
+    "year": 1949
+  },
+  {
+    "awards": 4,
+    "name": "Network",
+    "nominations": 10,
+    "year": 1976
+  },
+  {
+    "awards": 1,
+    "name": "Never on Sunday (Pote tin Kyriaki)",
+    "nominations": 5,
+    "year": 1960
+  },
+  {
+    "awards": 1,
+    "name": "New Tenants, TheThe New Tenants",
+    "nominations": 1,
+    "year": 2009
+  },
+  {
+    "awards": 2,
+    "name": "Nicholas and Alexandra",
+    "nominations": 6,
+    "year": 1971
+  },
+  {
+    "awards": 1,
+    "name": "Night of the Iguana, TheThe Night of the Iguana",
+    "nominations": 4,
+    "year": 1964
+  },
+  {
+    "awards": 1,
+    "name": "Nights of Cabiria (Le Notti di Cabiria)",
+    "nominations": 1,
+    "year": 1957
+  },
+  {
+    "awards": 1,
+    "name": "Nine from Little Rock",
+    "nominations": 1,
+    "year": 1964
+  },
+  {
+    "awards": 4,
+    "name": "No Country for Old Men",
+    "nominations": 8,
+    "year": 2007
+  },
+  {
+    "awards": 1,
+    "name": "No Man's Land",
+    "nominations": 1,
+    "year": 2001
+  },
+  {
+    "awards": 1,
+    "name": "None But the Lonely Heart",
+    "nominations": 4,
+    "year": 1944
+  },
+  {
+    "awards": 2,
+    "name": "Norma Rae",
+    "nominations": 4,
+    "year": 1979
+  },
+  {
+    "awards": 1,
+    "name": "Norman Rockwell's World... An American Dream",
+    "nominations": 1,
+    "year": 1972
+  },
+  {
+    "awards": 1,
+    "name": "North West Mounted Police",
+    "nominations": 5,
+    "year": 1940
+  },
+  {
+    "awards": 1,
+    "name": "Note of Triumph: The Golden Age of Norman Corwin, AA Note of Triumph: The Golden Age of Norman Corwin",
+    "nominations": 1,
+    "year": 2005
+  },
+  {
+    "awards": 1,
+    "name": "Now, Voyager",
+    "nominations": 3,
+    "year": 1942
+  },
+  {
+    "awards": 1,
+    "name": "Nowhere in Africa (Nirgendwo in Afrika)",
+    "nominations": 1,
+    "year": 2002
+  },
+  {
+    "awards": 1,
+    "name": "Number Our Days",
+    "nominations": 1,
+    "year": 1976
+  },
+  {
+    "awards": 1,
+    "name": "Nutty Professor, TheThe Nutty Professor",
+    "nominations": 1,
+    "year": 1996
+  },
+  {
+    "awards": 1,
+    "name": "Occurrence at Owl Creek Bridge, AnAn Occurrence at Owl Creek Bridge",
+    "nominations": 1,
+    "year": 1963
+  },
+  {
+    "awards": 1,
+    "name": "Of Pups and Puzzles",
+    "nominations": 1,
+    "year": 1941
+  },
+  {
+    "awards": 2,
+    "name": "Officer and a Gentleman, AnAn Officer and a Gentleman",
+    "nominations": 6,
+    "year": 1982
+  },
+  {
+    "awards": 1,
+    "name": "Official Story, TheThe Official Story (La Historia Oficial)",
+    "nominations": 2,
+    "year": 1985
+  },
+  {
+    "awards": 2,
+    "name": "Oklahoma!",
+    "nominations": 4,
+    "year": 1955
+  },
+  {
+    "awards": 1,
+    "name": "Old Man and the Sea, TheThe Old Man and the Sea",
+    "nominations": 3,
+    "year": 1958
+  },
+  {
+    "awards": 1,
+    "name": "Old Man and the Sea, TheThe Old Man and the Sea",
+    "nominations": 1,
+    "year": 1999
+  },
+  {
+    "awards": 1,
+    "name": "Old Mill, TheThe Old Mill",
+    "nominations": 1,
+    "year": 1937
+  },
+  {
+    "awards": 5,
+    "name": "Oliver!",
+    "nominations": 11,
+    "year": 1968
+  },
+  {
+    "awards": 1,
+    "name": "Omen, TheThe Omen",
+    "nominations": 2,
+    "year": 1976
+  },
+  {
+    "awards": 1,
+    "name": "Omnibus",
+    "nominations": 1,
+    "year": 1992
+  },
+  {
+    "awards": 3,
+    "name": "On Golden Pond",
+    "nominations": 10,
+    "year": 1981
+  },
+  {
+    "awards": 1,
+    "name": "On the Town",
+    "nominations": 1,
+    "year": 1949
+  },
+  {
+    "awards": 8,
+    "name": "On the Waterfront",
+    "nominations": 12,
+    "year": 1954
+  },
+  {
+    "awards": 1,
+    "name": "Once",
+    "nominations": 1,
+    "year": 2007
+  },
+  {
+    "awards": 1,
+    "name": "One Day in September",
+    "nominations": 1,
+    "year": 1999
+  },
+  {
+    "awards": 5,
+    "name": "One Flew over the Cuckoo's Nest",
+    "nominations": 9,
+    "year": 1975
+  },
+  {
+    "awards": 1,
+    "name": "One Hundred Men and a Girl",
+    "nominations": 5,
+    "year": 1937
+  },
+  {
+    "awards": 2,
+    "name": "One Night of Love",
+    "nominations": 6,
+    "year": 1934
+  },
+  {
+    "awards": 1,
+    "name": "One Survivor Remembers",
+    "nominations": 1,
+    "year": 1995
+  },
+  {
+    "awards": 1,
+    "name": "One Way Passage",
+    "nominations": 1,
+    "year": 1932
+  },
+  {
+    "awards": 1,
+    "name": "One-Eyed Men Are Kings (...borgnes sont rois, Les)",
+    "nominations": 1,
+    "year": 1974
+  },
+  {
+    "awards": 4,
+    "name": "Ordinary People",
+    "nominations": 6,
+    "year": 1980
+  },
+  {
+    "awards": 7,
+    "name": "Out of Africa",
+    "nominations": 11,
+    "year": 1985
+  },
+  {
+    "awards": 1,
+    "name": "Overture to The Merry Wives of Windsor",
+    "nominations": 1,
+    "year": 1953
+  },
+  {
+    "awards": 1,
+    "name": "Paleface, TheThe Paleface",
+    "nominations": 1,
+    "year": 1948
+  },
+  {
+    "awards": 1,
+    "name": "Panama Deception, TheThe Panama Deception",
+    "nominations": 1,
+    "year": 1992
+  },
+  {
+    "awards": 1,
+    "name": "Panic in the Streets",
+    "nominations": 1,
+    "year": 1950
+  },
+  {
+    "awards": 3,
+    "name": "Pan's Labyrinth (El laberinto del fauno)",
+    "nominations": 6,
+    "year": 2006
+  },
+  {
+    "awards": 1,
+    "name": "Papa's Delicate Condition",
+    "nominations": 1,
+    "year": 1963
+  },
+  {
+    "awards": 1,
+    "name": "Paper Chase, TheThe Paper Chase",
+    "nominations": 3,
+    "year": 1973
+  },
+  {
+    "awards": 1,
+    "name": "Paper Moon",
+    "nominations": 4,
+    "year": 1973
+  },
+  {
+    "awards": 1,
+    "name": "Paperman",
+    "nominations": 1,
+    "year": 2012
+  },
+  {
+    "awards": 2,
+    "name": "Passage to India, AA Passage to India",
+    "nominations": 11,
+    "year": 1984
+  },
+  {
+    "awards": 1,
+    "name": "Patch of Blue, AA Patch of Blue",
+    "nominations": 5,
+    "year": 1965
+  },
+  {
+    "awards": 1,
+    "name": "Patriot, TheThe Patriot",
+    "nominations": 5,
+    "year": 1928
+  },
+  {
+    "awards": 7,
+    "name": "Patton",
+    "nominations": 10,
+    "year": 1970
+  },
+  {
+    "awards": 1,
+    "name": "Paul Robeson: Tribute to an Artist",
+    "nominations": 1,
+    "year": 1979
+  },
+  {
+    "awards": 1,
+    "name": "Pearl Harbor",
+    "nominations": 4,
+    "year": 2001
+  },
+  {
+    "awards": 1,
+    "name": "Pelle the Conqueror (Pelle erobreren)",
+    "nominations": 2,
+    "year": 1988
+  },
+  {
+    "awards": 1,
+    "name": "Penny Wisdom",
+    "nominations": 1,
+    "year": 1937
+  },
+  {
+    "awards": 1,
+    "name": "Personals, TheThe Personals",
+    "nominations": 1,
+    "year": 1998
+  },
+  {
+    "awards": 1,
+    "name": "Peter & the Wolf",
+    "nominations": 1,
+    "year": 2007
+  },
+  {
+    "awards": 2,
+    "name": "Phantom of the Opera",
+    "nominations": 4,
+    "year": 1943
+  },
+  {
+    "awards": 2,
+    "name": "Philadelphia",
+    "nominations": 5,
+    "year": 1993
+  },
+  {
+    "awards": 2,
+    "name": "Philadelphia Story, TheThe Philadelphia Story",
+    "nominations": 6,
+    "year": 1940
+  },
+  {
+    "awards": 3,
+    "name": "Pianist, TheThe Pianist",
+    "nominations": 7,
+    "year": 2002
+  },
+  {
+    "awards": 3,
+    "name": "Piano, TheThe Piano",
+    "nominations": 8,
+    "year": 1993
+  },
+  {
+    "awards": 2,
+    "name": "Picnic",
+    "nominations": 6,
+    "year": 1955
+  },
+  {
+    "awards": 1,
+    "name": "Picture of Dorian Gray, TheThe Picture of Dorian Gray",
+    "nominations": 3,
+    "year": 1945
+  },
+  {
+    "awards": 1,
+    "name": "Pillow Talk",
+    "nominations": 5,
+    "year": 1959
+  },
+  {
+    "awards": 1,
+    "name": "Pink Phink, TheThe Pink Phink",
+    "nominations": 1,
+    "year": 1964
+  },
+  {
+    "awards": 2,
+    "name": "Pinocchio",
+    "nominations": 2,
+    "year": 1940
+  },
+  {
+    "awards": 1,
+    "name": "Pirates of the Caribbean: Dead Man's Chest",
+    "nominations": 4,
+    "year": 2006
+  },
+  {
+    "awards": 6,
+    "name": "Place in the Sun, AA Place in the Sun",
+    "nominations": 9,
+    "year": 1951
+  },
+  {
+    "awards": 1,
+    "name": "Place to Stand, AA Place to Stand (A Place to Stand, A Place to Grow)",
+    "nominations": 2,
+    "year": 1967
+  },
+  {
+    "awards": 2,
+    "name": "Places in the Heart",
+    "nominations": 7,
+    "year": 1984
+  },
+  {
+    "awards": 0,
+    "name": "Planet of the Apes",
+    "nominations": 2,
+    "year": 1968
+  },
+  {
+    "awards": 4,
+    "name": "Platoon",
+    "nominations": 8,
+    "year": 1986
+  },
+  {
+    "awards": 1,
+    "name": "Plymouth Adventure",
+    "nominations": 1,
+    "year": 1952
+  },
+  {
+    "awards": 2,
+    "name": "Pocahontas",
+    "nominations": 2,
+    "year": 1995
+  },
+  {
+    "awards": 1,
+    "name": "Pollock",
+    "nominations": 2,
+    "year": 2000
+  },
+  {
+    "awards": 0,
+    "name": "Pollyanna",
+    "nominations": 0,
+    "year": 1960
+  },
+  {
+    "awards": 1,
+    "name": "Porgy and Bess",
+    "nominations": 4,
+    "year": 1959
+  },
+  {
+    "awards": 1,
+    "name": "Portrait of Jennie",
+    "nominations": 2,
+    "year": 1948
+  },
+  {
+    "awards": 1,
+    "name": "Poseidon Adventure, TheThe Poseidon Adventure",
+    "nominations": 8,
+    "year": 1972
+  },
+  {
+    "awards": 1,
+    "name": "Precious Images",
+    "nominations": 1,
+    "year": 1986
+  },
+  {
+    "awards": 2,
+    "name": "Precious: Based on the Novel 'Push' by Sapphire",
+    "nominations": 6,
+    "year": 2009
+  },
+  {
+    "awards": 1,
+    "name": "Prelude To War",
+    "nominations": 1,
+    "year": 1942
+  },
+  {
+    "awards": 1,
+    "name": "Pride and Prejudice",
+    "nominations": 1,
+    "year": 1940
+  },
+  {
+    "awards": 1,
+    "name": "Pride of the Yankees, TheThe Pride of the Yankees",
+    "nominations": 11,
+    "year": 1942
+  },
+  {
+    "awards": 1,
+    "name": "Prime of Miss Jean Brodie, TheThe Prime of Miss Jean Brodie",
+    "nominations": 2,
+    "year": 1969
+  },
+  {
+    "awards": 1,
+    "name": "Prince of Egypt, TheThe Prince of Egypt",
+    "nominations": 2,
+    "year": 1998
+  },
+  {
+    "awards": 1,
+    "name": "Princess O'Rourke",
+    "nominations": 1,
+    "year": 1943
+  },
+  {
+    "awards": 1,
+    "name": "Princeton: A Search for Answers",
+    "nominations": 1,
+    "year": 1973
+  },
+  {
+    "awards": 1,
+    "name": "Private Life of Henry VIII, TheThe Private Life of Henry VIII",
+    "nominations": 2,
+    "year": 1932
+  },
+  {
+    "awards": 1,
+    "name": "Private Life of the Gannets, TheThe Private Life of the Gannets",
+    "nominations": 1,
+    "year": 1937
+  },
+  {
+    "awards": 1,
+    "name": "Prizzi's Honor",
+    "nominations": 8,
+    "year": 1985
+  },
+  {
+    "awards": 1,
+    "name": "Producers, TheThe Producers",
+    "nominations": 2,
+    "year": 1968
+  },
+  {
+    "awards": 1,
+    "name": "Project Hope",
+    "nominations": 1,
+    "year": 1961
+  },
+  {
+    "awards": 1,
+    "name": "Public Pays, TheThe Public Pays",
+    "nominations": 1,
+    "year": 1936
+  },
+  {
+    "awards": 1,
+    "name": "Pulp Fiction",
+    "nominations": 7,
+    "year": 1994
+  },
+  {
+    "awards": 1,
+    "name": "Purple Rain",
+    "nominations": 1,
+    "year": 1984
+  },
+  {
+    "awards": 1,
+    "name": "Pygmalion",
+    "nominations": 4,
+    "year": 1938
+  },
+  {
+    "awards": 1,
+    "name": "Queen, TheThe Queen",
+    "nominations": 6,
+    "year": 2006
+  },
+  {
+    "awards": 1,
+    "name": "Quest",
+    "nominations": 1,
+    "year": 1996
+  },
+  {
+    "awards": 1,
+    "name": "Quest for Fire",
+    "nominations": 1,
+    "year": 1982
+  },
+  {
+    "awards": 1,
+    "name": "Quicker'n a Wink",
+    "nominations": 1,
+    "year": 1940
+  },
+  {
+    "awards": 1,
+    "name": "Quiero ser (I want to be ...)",
+    "nominations": 1,
+    "year": 2000
+  },
+  {
+    "awards": 2,
+    "name": "Quiet Man, TheThe Quiet Man",
+    "nominations": 7,
+    "year": 1952
+  },
+  {
+    "awards": 1,
+    "name": "Quiet Please!",
+    "nominations": 1,
+    "year": 1945
+  },
+  {
+    "awards": 2,
+    "name": "Raging Bull",
+    "nominations": 8,
+    "year": 1980
+  },
+  {
+    "awards": 4,
+    "name": "Raiders of the Lost Ark",
+    "nominations": 8,
+    "year": 1981
+  },
+  {
+    "awards": 4,
+    "name": "Rain Man",
+    "nominations": 8,
+    "year": 1988
+  },
+  {
+    "awards": 1,
+    "name": "Rains Came, TheThe Rains Came",
+    "nominations": 6,
+    "year": 1939
+  },
+  {
+    "awards": 1,
+    "name": "Ran",
+    "nominations": 4,
+    "year": 1985
+  },
+  {
+    "awards": 1,
+    "name": "Rango",
+    "nominations": 1,
+    "year": 2011
+  },
+  {
+    "awards": 0,
+    "name": "Rashomon",
+    "nominations": 1,
+    "year": 1951
+  },
+  {
+    "awards": 1,
+    "name": "Ratatouille",
+    "nominations": 5,
+    "year": 2007
+  },
+  {
+    "awards": 2,
+    "name": "Ray",
+    "nominations": 6,
+    "year": 2004
+  },
+  {
+    "awards": 1,
+    "name": "Ray's Male Heterosexual Dance Hall",
+    "nominations": 1,
+    "year": 1987
+  },
+  {
+    "awards": 1,
+    "name": "Razor's Edge, TheThe Razor's Edge",
+    "nominations": 4,
+    "year": 1946
+  },
+  {
+    "awards": 1,
+    "name": "Reader, TheThe Reader",
+    "nominations": 5,
+    "year": 2008
+  },
+  {
+    "awards": 1,
+    "name": "Reap the Wild Wind",
+    "nominations": 3,
+    "year": 1942
+  },
+  {
+    "awards": 2,
+    "name": "Rebecca",
+    "nominations": 11,
+    "year": 1940
+  },
+  {
+    "awards": 1,
+    "name": "Red Balloon, TheThe Red Balloon (Le ballon rouge)",
+    "nominations": 1,
+    "year": 1956
+  },
+  {
+    "awards": 2,
+    "name": "Red Shoes, TheThe Red Shoes",
+    "nominations": 5,
+    "year": 1948
+  },
+  {
+    "awards": 1,
+    "name": "Red Violin, TheThe Red Violin (Le violon rouge)",
+    "nominations": 1,
+    "year": 1999
+  },
+  {
+    "awards": 3,
+    "name": "Reds",
+    "nominations": 12,
+    "year": 1981
+  },
+  {
+    "awards": 1,
+    "name": "Redwoods, TheThe Redwoods",
+    "nominations": 1,
+    "year": 1967
+  },
+  {
+    "awards": 2,
+    "name": "Restoration",
+    "nominations": 2,
+    "year": 1995
+  },
+  {
+    "awards": 1,
+    "name": "Resurrection of Broncho Billy, TheThe Resurrection of Broncho Billy",
+    "nominations": 1,
+    "year": 1970
+  },
+  {
+    "awards": 0,
+    "name": "Return of the Jedi",
+    "nominations": 4,
+    "year": 1983
+  },
+  {
+    "awards": 1,
+    "name": "Reversal of Fortune",
+    "nominations": 3,
+    "year": 1990
+  },
+  {
+    "awards": 4,
+    "name": "Right Stuff, TheThe Right Stuff",
+    "nominations": 8,
+    "year": 1983
+  },
+  {
+    "awards": 1,
+    "name": "River Runs Through It, AA River Runs Through It",
+    "nominations": 3,
+    "year": 1992
+  },
+  {
+    "awards": 0,
+    "name": "River, TheThe River",
+    "nominations": 4,
+    "year": 1984
+  },
+  {
+    "awards": 1,
+    "name": "Road to Perdition",
+    "nominations": 6,
+    "year": 2002
+  },
+  {
+    "awards": 2,
+    "name": "Robe, TheThe Robe",
+    "nominations": 5,
+    "year": 1953
+  },
+  {
+    "awards": 1,
+    "name": "Robert Frost: A Lover's Quarrel with the World",
+    "nominations": 1,
+    "year": 1963
+  },
+  {
+    "awards": 1,
+    "name": "Robert Kennedy Remembered",
+    "nominations": 1,
+    "year": 1968
+  },
+  {
+    "awards": 0,
+    "name": "RoboCop",
+    "nominations": 2,
+    "year": 1987
+  },
+  {
+    "awards": 3,
+    "name": "Rocky",
+    "nominations": 10,
+    "year": 1976
+  },
+  {
+    "awards": 3,
+    "name": "Roman Holiday",
+    "nominations": 10,
+    "year": 1953
+  },
+  {
+    "awards": 2,
+    "name": "Romeo and Juliet",
+    "nominations": 4,
+    "year": 1968
+  },
+  {
+    "awards": 2,
+    "name": "Room at the Top",
+    "nominations": 6,
+    "year": 1959
+  },
+  {
+    "awards": 3,
+    "name": "Room with a View, AA Room with a View",
+    "nominations": 8,
+    "year": 1986
+  },
+  {
+    "awards": 3,
+    "name": "Rose Tattoo, TheThe Rose Tattoo",
+    "nominations": 8,
+    "year": 1955
+  },
+  {
+    "awards": 1,
+    "name": "Rosemary's Baby",
+    "nominations": 2,
+    "year": 1968
+  },
+  {
+    "awards": 1,
+    "name": "Round Midnight",
+    "nominations": 2,
+    "year": 1986
+  },
+  {
+    "awards": 1,
+    "name": "Ryan",
+    "nominations": 1,
+    "year": 2004
+  },
+  {
+    "awards": 2,
+    "name": "Ryan's Daughter",
+    "nominations": 4,
+    "year": 1970
+  },
+  {
+    "awards": 1,
+    "name": "Sabrina",
+    "nominations": 6,
+    "year": 1954
+  },
+  {
+    "awards": 2,
+    "name": "Samson and Delilah",
+    "nominations": 5,
+    "year": 1950
+  },
+  {
+    "awards": 0,
+    "name": "Samurai I: Musashi Miyamoto (Miyamoto Musashi)",
+    "nominations": 0,
+    "year": 1955
+  },
+  {
+    "awards": 1,
+    "name": "San Francisco",
+    "nominations": 6,
+    "year": 1936
+  },
+  {
+    "awards": 1,
+    "name": "Sand Castle, TheThe Sand Castle (Le Ch\u00e2teau de sable)",
+    "nominations": 1,
+    "year": 1977
+  },
+  {
+    "awards": 1,
+    "name": "Sandpiper, TheThe Sandpiper",
+    "nominations": 1,
+    "year": 1965
+  },
+  {
+    "awards": 1,
+    "name": "Save the Tiger",
+    "nominations": 3,
+    "year": 1973
+  },
+  {
+    "awards": 1,
+    "name": "Saving Face",
+    "nominations": 1,
+    "year": 2011
+  },
+  {
+    "awards": 5,
+    "name": "Saving Private Ryan",
+    "nominations": 11,
+    "year": 1998
+  },
+  {
+    "awards": 4,
+    "name": "Sayonara",
+    "nominations": 10,
+    "year": 1957
+  },
+  {
+    "awards": 1,
+    "name": "Scared Straight!",
+    "nominations": 1,
+    "year": 1978
+  },
+  {
+    "awards": 1,
+    "name": "Scent of a Woman",
+    "nominations": 4,
+    "year": 1992
+  },
+  {
+    "awards": 7,
+    "name": "Schindler's List",
+    "nominations": 12,
+    "year": 1993
+  },
+  {
+    "awards": 1,
+    "name": "Scoundrel, TheThe Scoundrel",
+    "nominations": 1,
+    "year": 1935
+  },
+  {
+    "awards": 1,
+    "name": "Sea Around Us, TheThe Sea Around Us",
+    "nominations": 1,
+    "year": 1952
+  },
+  {
+    "awards": 1,
+    "name": "Sea Inside, TheThe Sea Inside",
+    "nominations": 2,
+    "year": 2004
+  },
+  {
+    "awards": 1,
+    "name": "Seal Island",
+    "nominations": 1,
+    "year": 1948
+  },
+  {
+    "awards": 1,
+    "name": "Search, TheThe Search",
+    "nominations": 4,
+    "year": 1948
+  },
+  {
+    "awards": 1,
+    "name": "Searching for Sugar Man",
+    "nominations": 1,
+    "year": 2012
+  },
+  {
+    "awards": 1,
+    "name": "Seawards the Great Ships",
+    "nominations": 1,
+    "year": 1961
+  },
+  {
+    "awards": 1,
+    "name": "Secret in Their Eyes, TheThe Secret in Their Eyes",
+    "nominations": 1,
+    "year": 2009
+  },
+  {
+    "awards": 1,
+    "name": "Secret Land, TheThe Secret Land",
+    "nominations": 1,
+    "year": 1948
+  },
+  {
+    "awards": 1,
+    "name": "Seeds of Destiny",
+    "nominations": 1,
+    "year": 1946
+  },
+  {
+    "awards": 1,
+    "name": "Sense and Sensibility",
+    "nominations": 7,
+    "year": 1995
+  },
+  {
+    "awards": 2,
+    "name": "Sentinels of Silence",
+    "nominations": 2,
+    "year": 1971
+  },
+  {
+    "awards": 2,
+    "name": "Separate Tables",
+    "nominations": 7,
+    "year": 1958
+  },
+  {
+    "awards": 1,
+    "name": "A Separation",
+    "nominations": 2,
+    "year": 2011
+  },
+  {
+    "awards": 1,
+    "name": "Serengeti Shall Not Die (Serengeti darf nicht sterben)",
+    "nominations": 1,
+    "year": 1959
+  },
+  {
+    "awards": 2,
+    "name": "Sergeant York",
+    "nominations": 11,
+    "year": 1941
+  },
+  {
+    "awards": 1,
+    "name": "Session Man",
+    "nominations": 1,
+    "year": 1991
+  },
+  {
+    "awards": 1,
+    "name": "Seven Brides for Seven Brothers",
+    "nominations": 5,
+    "year": 1954
+  },
+  {
+    "awards": 1,
+    "name": "Seven Days to Noon",
+    "nominations": 1,
+    "year": 1951
+  },
+  {
+    "awards": 1,
+    "name": "Seventh Veil, TheThe Seventh Veil",
+    "nominations": 1,
+    "year": 1946
+  },
+  {
+    "awards": 1,
+    "name": "Shaft",
+    "nominations": 2,
+    "year": 1971
+  },
+  {
+    "awards": 7,
+    "name": "Shakespeare in Love",
+    "nominations": 13,
+    "year": 1998
+  },
+  {
+    "awards": 1,
+    "name": "Shampoo",
+    "nominations": 4,
+    "year": 1975
+  },
+  {
+    "awards": 1,
+    "name": "Shane",
+    "nominations": 6,
+    "year": 1953
+  },
+  {
+    "awards": 1,
+    "name": "Shanghai Express",
+    "nominations": 3,
+    "year": 1931
+  },
+  {
+    "awards": 1,
+    "name": "She Wore a Yellow Ribbon",
+    "nominations": 1,
+    "year": 1949
+  },
+  {
+    "awards": 1,
+    "name": "Shine",
+    "nominations": 7,
+    "year": 1996
+  },
+  {
+    "awards": 2,
+    "name": "Ship of Fools",
+    "nominations": 8,
+    "year": 1965
+  },
+  {
+    "awards": 1,
+    "name": "Shocking Accident, AA Shocking Accident",
+    "nominations": 1,
+    "year": 1982
+  },
+  {
+    "awards": 0,
+    "name": "Shoeshine (Sciusci\u00e0)",
+    "nominations": 1,
+    "year": 1947
+  },
+  {
+    "awards": 1,
+    "name": "Shop on Main Street, TheThe Shop on Main Street (Obchod na korze)",
+    "nominations": 2,
+    "year": 1965
+  },
+  {
+    "awards": 1,
+    "name": "The Shore",
+    "nominations": 1,
+    "year": 2011
+  },
+  {
+    "awards": 1,
+    "name": "Shrek",
+    "nominations": 2,
+    "year": 2001
+  },
+  {
+    "awards": 1,
+    "name": "Sideways",
+    "nominations": 5,
+    "year": 2004
+  },
+  {
+    "awards": 5,
+    "name": "Silence of the Lambs, TheThe Silence of the Lambs",
+    "nominations": 7,
+    "year": 1991
+  },
+  {
+    "awards": 1,
+    "name": "Silent World, TheThe Silent World (Le Monde du silence)",
+    "nominations": 1,
+    "year": 1956
+  },
+  {
+    "awards": 1,
+    "name": "Silver Linings Playbook",
+    "nominations": 8,
+    "year": 2012
+  },
+  {
+    "awards": 1,
+    "name": "Sin of Madelon Claudet, TheThe Sin of Madelon Claudet",
+    "nominations": 1,
+    "year": 1931
+  },
+  {
+    "awards": 1,
+    "name": "Since You Went Away",
+    "nominations": 9,
+    "year": 1944
+  },
+  {
+    "awards": 1,
+    "name": "Six Shooter",
+    "nominations": 1,
+    "year": 2005
+  },
+  {
+    "awards": 1,
+    "name": "Skippy",
+    "nominations": 4,
+    "year": 1930
+  },
+  {
+    "awards": 1,
+    "name": "Sky Above and Mud Beneath (Le Ciel et la boue)",
+    "nominations": 1,
+    "year": 1961
+  },
+  {
+    "awards": 2,
+    "name": "Skyfall",
+    "nominations": 5,
+    "year": 2012
+  },
+  {
+    "awards": 1,
+    "name": "Sleepy Hollow",
+    "nominations": 3,
+    "year": 1999
+  },
+  {
+    "awards": 1,
+    "name": "Sling Blade",
+    "nominations": 2,
+    "year": 1996
+  },
+  {
+    "awards": 8,
+    "name": "Slumdog Millionaire",
+    "nominations": 10,
+    "year": 2008
+  },
+  {
+    "awards": 1,
+    "name": "Smile Pinki",
+    "nominations": 1,
+    "year": 2008
+  },
+  {
+    "awards": 1,
+    "name": "Snake Pit, TheThe Snake Pit",
+    "nominations": 6,
+    "year": 1948
+  },
+  {
+    "awards": 0,
+    "name": "Snow White and the Seven Dwarfs",
+    "nominations": 1,
+    "year": 1937
+  },
+  {
+    "awards": 1,
+    "name": "So Much for So Little",
+    "nominations": 1,
+    "year": 1949
+  },
+  {
+    "awards": 1,
+    "name": "So This Is Harris!",
+    "nominations": 1,
+    "year": 1932
+  },
+  {
+    "awards": 3,
+    "name": "Social Network, TheThe Social Network",
+    "nominations": 8,
+    "year": 2010
+  },
+  {
+    "awards": 1,
+    "name": "Solid Gold Cadillac, TheThe Solid Gold Cadillac",
+    "nominations": 2,
+    "year": 1956
+  },
+  {
+    "awards": 1,
+    "name": "Some Like It Hot",
+    "nominations": 6,
+    "year": 1959
+  },
+  {
+    "awards": 2,
+    "name": "Somebody Up There Likes Me",
+    "nominations": 3,
+    "year": 1956
+  },
+  {
+    "awards": 4,
+    "name": "Song of Bernadette, TheThe Song of Bernadette",
+    "nominations": 12,
+    "year": 1943
+  },
+  {
+    "awards": 1,
+    "name": "Song of the South",
+    "nominations": 2,
+    "year": 1947
+  },
+  {
+    "awards": 1,
+    "name": "Song Without End",
+    "nominations": 1,
+    "year": 1960
+  },
+  {
+    "awards": 1,
+    "name": "Sons and Lovers",
+    "nominations": 7,
+    "year": 1960
+  },
+  {
+    "awards": 1,
+    "name": "Sons of Liberty",
+    "nominations": 1,
+    "year": 1939
+  },
+  {
+    "awards": 1,
+    "name": "Sophie's Choice",
+    "nominations": 5,
+    "year": 1982
+  },
+  {
+    "awards": 5,
+    "name": "Sound of Music, TheThe Sound of Music",
+    "nominations": 10,
+    "year": 1965
+  },
+  {
+    "awards": 1,
+    "name": "South Pacific",
+    "nominations": 3,
+    "year": 1958
+  },
+  {
+    "awards": 4,
+    "name": "Spartacus",
+    "nominations": 6,
+    "year": 1960
+  },
+  {
+    "awards": 0,
+    "name": "Spawn of the North",
+    "nominations": 0,
+    "year": 1938
+  },
+  {
+    "awards": 1,
+    "name": "Speaking of Animals and Their Families",
+    "nominations": 1,
+    "year": 1942
+  },
+  {
+    "awards": 1,
+    "name": "Special Delivery",
+    "nominations": 1,
+    "year": 1978
+  },
+  {
+    "awards": 2,
+    "name": "Speed",
+    "nominations": 3,
+    "year": 1994
+  },
+  {
+    "awards": 1,
+    "name": "Speedy Gonzales",
+    "nominations": 1,
+    "year": 1955
+  },
+  {
+    "awards": 1,
+    "name": "Spellbound",
+    "nominations": 6,
+    "year": 1945
+  },
+  {
+    "awards": 1,
+    "name": "Spider-Man 2",
+    "nominations": 3,
+    "year": 2004
+  },
+  {
+    "awards": 1,
+    "name": "Spirited Away",
+    "nominations": 1,
+    "year": 2002
+  },
+  {
+    "awards": 1,
+    "name": "Splendor in the Grass",
+    "nominations": 2,
+    "year": 1961
+  },
+  {
+    "awards": 2,
+    "name": "Stagecoach",
+    "nominations": 7,
+    "year": 1939
+  },
+  {
+    "awards": 1,
+    "name": "Stairway to Light",
+    "nominations": 1,
+    "year": 1945
+  },
+  {
+    "awards": 1,
+    "name": "Stalag 17",
+    "nominations": 3,
+    "year": 1953
+  },
+  {
+    "awards": 1,
+    "name": "Star in the Night",
+    "nominations": 1,
+    "year": 1945
+  },
+  {
+    "awards": 1,
+    "name": "Star Is Born, AA Star Is Born",
+    "nominations": 7,
+    "year": 1937
+  },
+  {
+    "awards": 1,
+    "name": "Star Is Born, AA Star Is Born",
+    "nominations": 4,
+    "year": 1976
+  },
+  {
+    "awards": 1,
+    "name": "Star Trek",
+    "nominations": 4,
+    "year": 2009
+  },
+  {
+    "awards": 6,
+    "name": "Star Wars",
+    "nominations": 10,
+    "year": 1977
+  },
+  {
+    "awards": 1,
+    "name": "State Fair",
+    "nominations": 2,
+    "year": 1945
+  },
+  {
+    "awards": 7,
+    "name": "Sting, TheThe Sting",
+    "nominations": 10,
+    "year": 1973
+  },
+  {
+    "awards": 1,
+    "name": "Stone Carvers, TheThe Stone Carvers",
+    "nominations": 1,
+    "year": 1984
+  },
+  {
+    "awards": 1,
+    "name": "Story of Healing, AA Story of Healing",
+    "nominations": 1,
+    "year": 1997
+  },
+  {
+    "awards": 3,
+    "name": "Story of Louis Pasteur, TheThe Story of Louis Pasteur",
+    "nominations": 4,
+    "year": 1936
+  },
+  {
+    "awards": 1,
+    "name": "Strangers No More",
+    "nominations": 1,
+    "year": 2010
+  },
+  {
+    "awards": 1,
+    "name": "Stratton Story, TheThe Stratton Story",
+    "nominations": 1,
+    "year": 1949
+  },
+  {
+    "awards": 1,
+    "name": "Street Angel",
+    "nominations": 3,
+    "year": 1927
+  },
+  {
+    "awards": 4,
+    "name": "Streetcar Named Desire, AA Streetcar Named Desire",
+    "nominations": 12,
+    "year": 1951
+  },
+  {
+    "awards": 1,
+    "name": "Strike Up the Band",
+    "nominations": 3,
+    "year": 1940
+  },
+  {
+    "awards": 1,
+    "name": "Subject Was Roses, TheThe Subject Was Roses",
+    "nominations": 2,
+    "year": 1968
+  },
+  {
+    "awards": 1,
+    "name": "Substitute, TheThe Substitute (Surogat)",
+    "nominations": 1,
+    "year": 1961
+  },
+  {
+    "awards": 1,
+    "name": "Summer of '42",
+    "nominations": 4,
+    "year": 1971
+  },
+  {
+    "awards": 1,
+    "name": "Sundae in New York",
+    "nominations": 1,
+    "year": 1983
+  },
+  {
+    "awards": 1,
+    "name": "Sundays and Cybele (Le Dimanches de Ville d'Avray)",
+    "nominations": 3,
+    "year": 1962
+  },
+  {
+    "awards": 3,
+    "name": "Sunrise",
+    "nominations": 4,
+    "year": 1927
+  },
+  {
+    "awards": 3,
+    "name": "Sunset Boulevard",
+    "nominations": 11,
+    "year": 1950
+  },
+  {
+    "awards": 1,
+    "name": "Sunshine Boys, TheThe Sunshine Boys",
+    "nominations": 4,
+    "year": 1975
+  },
+  {
+    "awards": 0,
+    "name": "Superman",
+    "nominations": 3,
+    "year": 1978
+  },
+  {
+    "awards": 1,
+    "name": "Survival City",
+    "nominations": 1,
+    "year": 1955
+  },
+  {
+    "awards": 1,
+    "name": "Suspicion",
+    "nominations": 3,
+    "year": 1941
+  },
+  {
+    "awards": 1,
+    "name": "Sweeney Todd: The Demon Barber of Fleet Street",
+    "nominations": 3,
+    "year": 2007
+  },
+  {
+    "awards": 1,
+    "name": "Sweet Bird of Youth",
+    "nominations": 3,
+    "year": 1962
+  },
+  {
+    "awards": 0,
+    "name": "Sweethearts",
+    "nominations": 2,
+    "year": 1938
+  },
+  {
+    "awards": 1,
+    "name": "Swing Time",
+    "nominations": 2,
+    "year": 1936
+  },
+  {
+    "awards": 1,
+    "name": "Symphony of a City",
+    "nominations": 1,
+    "year": 1948
+  },
+  {
+    "awards": 1,
+    "name": "Syriana",
+    "nominations": 2,
+    "year": 2005
+  },
+  {
+    "awards": 1,
+    "name": "Tabu",
+    "nominations": 1,
+    "year": 1930
+  },
+  {
+    "awards": 1,
+    "name": "Talk to Her (Hable con ella)",
+    "nominations": 2,
+    "year": 2002
+  },
+  {
+    "awards": 1,
+    "name": "Tango",
+    "nominations": 1,
+    "year": 1982
+  },
+  {
+    "awards": 0,
+    "name": "Target For Tonight",
+    "nominations": 0,
+    "year": 1941
+  },
+  {
+    "awards": 1,
+    "name": "Tarzan",
+    "nominations": 1,
+    "year": 1999
+  },
+  {
+    "awards": 1,
+    "name": "Taxi to the Dark Side",
+    "nominations": 1,
+    "year": 2007
+  },
+  {
+    "awards": 1,
+    "name": "Teddy, the Rough Rider",
+    "nominations": 1,
+    "year": 1940
+  },
+  {
+    "awards": 1,
+    "name": "Teenage Father",
+    "nominations": 1,
+    "year": 1978
+  },
+  {
+    "awards": 1,
+    "name": "Tempest, TheThe Tempest",
+    "nominations": 1,
+    "year": 1927
+  },
+  {
+    "awards": 1,
+    "name": "Ten Commandments, TheThe Ten Commandments",
+    "nominations": 7,
+    "year": 1956
+  },
+  {
+    "awards": 2,
+    "name": "Tender Mercies",
+    "nominations": 5,
+    "year": 1983
+  },
+  {
+    "awards": 1,
+    "name": "Ten-Year Lunch: The Wit and Legend of the Algonquin Round Table, TheThe Ten-Year Lunch: The Wit and Legend of the Algonquin Round Table",
+    "nominations": 1,
+    "year": 1987
+  },
+  {
+    "awards": 4,
+    "name": "Terminator 2: Judgment Day",
+    "nominations": 6,
+    "year": 1991
+  },
+  {
+    "awards": 5,
+    "name": "Terms of Endearment",
+    "nominations": 11,
+    "year": 1983
+  },
+  {
+    "awards": 3,
+    "name": "Tess",
+    "nominations": 6,
+    "year": 1980
+  },
+  {
+    "awards": 1,
+    "name": "Thank God It's Friday",
+    "nominations": 1,
+    "year": 1978
+  },
+  {
+    "awards": 1,
+    "name": "That Hamilton Woman",
+    "nominations": 4,
+    "year": 1941
+  },
+  {
+    "awards": 1,
+    "name": "That Mothers Might Live",
+    "nominations": 1,
+    "year": 1938
+  },
+  {
+    "awards": 1,
+    "name": "Thelma & Louise",
+    "nominations": 6,
+    "year": 1991
+  },
+  {
+    "awards": 2,
+    "name": "There Will Be Blood",
+    "nominations": 8,
+    "year": 2007
+  },
+  {
+    "awards": 1,
+    "name": "They Shoot Horses, Don't They?",
+    "nominations": 9,
+    "year": 1969
+  },
+  {
+    "awards": 3,
+    "name": "Thief of Bagdad, TheThe Thief of Bagdad",
+    "nominations": 4,
+    "year": 1940
+  },
+  {
+    "awards": 1,
+    "name": "Third Man, TheThe Third Man",
+    "nominations": 3,
+    "year": 1950
+  },
+  {
+    "awards": 1,
+    "name": "Thirty Seconds Over Tokyo",
+    "nominations": 2,
+    "year": 1944
+  },
+  {
+    "awards": 1,
+    "name": "This Above All",
+    "nominations": 4,
+    "year": 1942
+  },
+  {
+    "awards": 1,
+    "name": "This Charming Man (Der Er En Yndig Mand)",
+    "nominations": 1,
+    "year": 2002
+  },
+  {
+    "awards": 1,
+    "name": "This Is the Army",
+    "nominations": 3,
+    "year": 1943
+  },
+  {
+    "awards": 1,
+    "name": "This Land Is Mine",
+    "nominations": 1,
+    "year": 1943
+  },
+  {
+    "awards": 1,
+    "name": "This Mechanical Age",
+    "nominations": 1,
+    "year": 1954
+  },
+  {
+    "awards": 1,
+    "name": "This Tiny World",
+    "nominations": 1,
+    "year": 1972
+  },
+  {
+    "awards": 1,
+    "name": "Thomas Crown Affair, TheThe Thomas Crown Affair",
+    "nominations": 2,
+    "year": 1968
+  },
+  {
+    "awards": 1,
+    "name": "Thoroughly Modern Millie",
+    "nominations": 7,
+    "year": 1967
+  },
+  {
+    "awards": 1,
+    "name": "Thoth",
+    "nominations": 1,
+    "year": 2001
+  },
+  {
+    "awards": 1,
+    "name": "Thousand Clowns, AA Thousand Clowns",
+    "nominations": 4,
+    "year": 1965
+  },
+  {
+    "awards": 2,
+    "name": "Three Coins in the Fountain",
+    "nominations": 3,
+    "year": 1954
+  },
+  {
+    "awards": 1,
+    "name": "Three Faces of Eve, TheThe Three Faces of Eve",
+    "nominations": 1,
+    "year": 1957
+  },
+  {
+    "awards": 1,
+    "name": "Three Little Pigs",
+    "nominations": 1,
+    "year": 1932
+  },
+  {
+    "awards": 1,
+    "name": "Three Orphan Kittens",
+    "nominations": 1,
+    "year": 1935
+  },
+  {
+    "awards": 1,
+    "name": "Through a Glass Darkly (S\u00e5som i en spegel)",
+    "nominations": 2,
+    "year": 1961
+  },
+  {
+    "awards": 1,
+    "name": "Thunderball",
+    "nominations": 1,
+    "year": 1965
+  },
+  {
+    "awards": 1,
+    "name": "Thursday's Children",
+    "nominations": 1,
+    "year": 1954
+  },
+  {
+    "awards": 1,
+    "name": "Time for Justice, AA Time for Justice",
+    "nominations": 1,
+    "year": 1994
+  },
+  {
+    "awards": 1,
+    "name": "Time Machine, TheThe Time Machine",
+    "nominations": 1,
+    "year": 1960
+  },
+  {
+    "awards": 1,
+    "name": "Time Out of War, AA Time Out of War",
+    "nominations": 1,
+    "year": 1954
+  },
+  {
+    "awards": 1,
+    "name": "Times of Harvey Milk, TheThe Times of Harvey Milk",
+    "nominations": 1,
+    "year": 1984
+  },
+  {
+    "awards": 1,
+    "name": "Tin Drum, TheThe Tin Drum (Die Blechtrommel)",
+    "nominations": 1,
+    "year": 1979
+  },
+  {
+    "awards": 1,
+    "name": "Tin Pan Alley",
+    "nominations": 1,
+    "year": 1940
+  },
+  {
+    "awards": 1,
+    "name": "Tin Toy",
+    "nominations": 1,
+    "year": 1988
+  },
+  {
+    "awards": 1,
+    "name": "Titan: Story of Michelangelo, TheThe Titan: Story of Michelangelo",
+    "nominations": 1,
+    "year": 1950
+  },
+  {
+    "awards": 1,
+    "name": "Titanic",
+    "nominations": 2,
+    "year": 1953
+  },
+  {
+    "awards": 11,
+    "name": "Titanic",
+    "nominations": 14,
+    "year": 1997
+  },
+  {
+    "awards": 1,
+    "name": "To Be Alive!",
+    "nominations": 1,
+    "year": 1965
+  },
+  {
+    "awards": 1,
+    "name": "To Begin Again (Volver a empezar)",
+    "nominations": 1,
+    "year": 1982
+  },
+  {
+    "awards": 1,
+    "name": "To Catch a Thief",
+    "nominations": 3,
+    "year": 1955
+  },
+  {
+    "awards": 1,
+    "name": "To Each His Own",
+    "nominations": 2,
+    "year": 1946
+  },
+  {
+    "awards": 3,
+    "name": "To Kill a Mockingbird",
+    "nominations": 8,
+    "year": 1962
+  },
+  {
+    "awards": 4,
+    "name": "Tom Jones",
+    "nominations": 10,
+    "year": 1963
+  },
+  {
+    "awards": 1,
+    "name": "tom thumb",
+    "nominations": 1,
+    "year": 1958
+  },
+  {
+    "awards": 1,
+    "name": "Toot, Whistle, Plunk and Boom",
+    "nominations": 1,
+    "year": 1953
+  },
+  {
+    "awards": 1,
+    "name": "Tootsie",
+    "nominations": 10,
+    "year": 1982
+  },
+  {
+    "awards": 1,
+    "name": "Top Gun",
+    "nominations": 4,
+    "year": 1986
+  },
+  {
+    "awards": 1,
+    "name": "Topkapi",
+    "nominations": 1,
+    "year": 1964
+  },
+  {
+    "awards": 2,
+    "name": "Topsy-Turvy",
+    "nominations": 4,
+    "year": 1999
+  },
+  {
+    "awards": 1,
+    "name": "Tora! Tora! Tora!",
+    "nominations": 5,
+    "year": 1970
+  },
+  {
+    "awards": 1,
+    "name": "Tortoise and the Hare, TheThe Tortoise and the Hare",
+    "nominations": 1,
+    "year": 1934
+  },
+  {
+    "awards": 1,
+    "name": "Torture Money",
+    "nominations": 1,
+    "year": 1937
+  },
+  {
+    "awards": 0,
+    "name": "Total Recall",
+    "nominations": 2,
+    "year": 1990
+  },
+  {
+    "awards": 1,
+    "name": "Touch of Class, AA Touch of Class",
+    "nominations": 5,
+    "year": 1973
+  },
+  {
+    "awards": 1,
+    "name": "Toward Independence",
+    "nominations": 1,
+    "year": 1948
+  },
+  {
+    "awards": 3,
+    "name": "Towering Inferno, TheThe Towering Inferno",
+    "nominations": 8,
+    "year": 1974
+  },
+  {
+    "awards": 0,
+    "name": "Toy Story",
+    "nominations": 3,
+    "year": 1995
+  },
+  {
+    "awards": 2,
+    "name": "Toy Story 3",
+    "nominations": 5,
+    "year": 2010
+  },
+  {
+    "awards": 1,
+    "name": "Toyland",
+    "nominations": 1,
+    "year": 2008
+  },
+  {
+    "awards": 4,
+    "name": "Traffic",
+    "nominations": 5,
+    "year": 2000
+  },
+  {
+    "awards": 1,
+    "name": "Training Day",
+    "nominations": 2,
+    "year": 2001
+  },
+  {
+    "awards": 1,
+    "name": "Transatlantic",
+    "nominations": 1,
+    "year": 1931
+  },
+  {
+    "awards": 1,
+    "name": "Travels with My Aunt",
+    "nominations": 4,
+    "year": 1972
+  },
+  {
+    "awards": 3,
+    "name": "Treasure of the Sierra Madre, TheThe Treasure of the Sierra Madre",
+    "nominations": 4,
+    "year": 1948
+  },
+  {
+    "awards": 1,
+    "name": "Tree Grows in Brooklyn, AA Tree Grows in Brooklyn",
+    "nominations": 2,
+    "year": 1945
+  },
+  {
+    "awards": 1,
+    "name": "Trevor",
+    "nominations": 1,
+    "year": 1994
+  },
+  {
+    "awards": 1,
+    "name": "Trip to Bountiful, TheThe Trip to Bountiful",
+    "nominations": 2,
+    "year": 1985
+  },
+  {
+    "awards": 1,
+    "name": "True Glory, TheThe True Glory",
+    "nominations": 1,
+    "year": 1945
+  },
+  {
+    "awards": 1,
+    "name": "True Grit",
+    "nominations": 2,
+    "year": 1969
+  },
+  {
+    "awards": 1,
+    "name": "True Story of the Civil War, TheThe True Story of the Civil War",
+    "nominations": 1,
+    "year": 1956
+  },
+  {
+    "awards": 1,
+    "name": "Tsotsi",
+    "nominations": 1,
+    "year": 2005
+  },
+  {
+    "awards": 1,
+    "name": "Tweetie Pie",
+    "nominations": 1,
+    "year": 1947
+  },
+  {
+    "awards": 2,
+    "name": "Twelve O'Clock High",
+    "nominations": 4,
+    "year": 1949
+  },
+  {
+    "awards": 1,
+    "name": "Twin Towers",
+    "nominations": 1,
+    "year": 2002
+  },
+  {
+    "awards": 1,
+    "name": "Two Arabian Knights",
+    "nominations": 1,
+    "year": 1927
+  },
+  {
+    "awards": 1,
+    "name": "Two Mouseketeers, TheThe Two Mouseketeers",
+    "nominations": 1,
+    "year": 1951
+  },
+  {
+    "awards": 1,
+    "name": "Two Soldiers",
+    "nominations": 1,
+    "year": 2003
+  },
+  {
+    "awards": 1,
+    "name": "Two Women (La Ciociara)",
+    "nominations": 1,
+    "year": 1961
+  },
+  {
+    "awards": 1,
+    "name": "U-571",
+    "nominations": 2,
+    "year": 2000
+  },
+  {
+    "awards": 1,
+    "name": "Ugly Duckling, TheThe Ugly Duckling",
+    "nominations": 1,
+    "year": 1939
+  },
+  {
+    "awards": 1,
+    "name": "Undefeated",
+    "nominations": 1,
+    "year": 2011
+  },
+  {
+    "awards": 1,
+    "name": "Underworld",
+    "nominations": 1,
+    "year": 1927
+  },
+  {
+    "awards": 4,
+    "name": "Unforgiven",
+    "nominations": 9,
+    "year": 1992
+  },
+  {
+    "awards": 1,
+    "name": "Untouchables, TheThe Untouchables",
+    "nominations": 4,
+    "year": 1987
+  },
+  {
+    "awards": 1,
+    "name": "Up",
+    "nominations": 1,
+    "year": 1984
+  },
+  {
+    "awards": 2,
+    "name": "Up",
+    "nominations": 5,
+    "year": 2009
+  },
+  {
+    "awards": 2,
+    "name": "Usual Suspects, TheThe Usual Suspects",
+    "nominations": 2,
+    "year": 1995
+  },
+  {
+    "awards": 1,
+    "name": "V.I.P.s, TheThe V.I.P.s",
+    "nominations": 1,
+    "year": 1963
+  },
+  {
+    "awards": 1,
+    "name": "Vacation from Marriage (UK title Perfect Strangers)",
+    "nominations": 1,
+    "year": 1946
+  },
+  {
+    "awards": 1,
+    "name": "Van Gogh",
+    "nominations": 1,
+    "year": 1949
+  },
+  {
+    "awards": 1,
+    "name": "Vanishing Prairie, TheThe Vanishing Prairie",
+    "nominations": 1,
+    "year": 1954
+  },
+  {
+    "awards": 1,
+    "name": "Vicky Cristina Barcelona",
+    "nominations": 1,
+    "year": 2008
+  },
+  {
+    "awards": 1,
+    "name": "Victor Victoria",
+    "nominations": 7,
+    "year": 1982
+  },
+  {
+    "awards": 1,
+    "name": "Violet",
+    "nominations": 1,
+    "year": 1981
+  },
+  {
+    "awards": 1,
+    "name": "Virgin Spring, TheThe Virgin Spring (Jungfruk\u00e4llan)",
+    "nominations": 2,
+    "year": 1960
+  },
+  {
+    "awards": 1,
+    "name": "Visas and Virtue",
+    "nominations": 1,
+    "year": 1997
+  },
+  {
+    "awards": 1,
+    "name": "Viva Villa!",
+    "nominations": 4,
+    "year": 1934
+  },
+  {
+    "awards": 1,
+    "name": "Viva Zapata!",
+    "nominations": 5,
+    "year": 1952
+  },
+  {
+    "awards": 1,
+    "name": "Waikiki Wedding",
+    "nominations": 2,
+    "year": 1937
+  },
+  {
+    "awards": 1,
+    "name": "Walk the Line",
+    "nominations": 5,
+    "year": 2005
+  },
+  {
+    "awards": 1,
+    "name": "Wall Street",
+    "nominations": 1,
+    "year": 1987
+  },
+  {
+    "awards": 1,
+    "name": "Wallace & Gromit: The Curse of the Were-Rabbit",
+    "nominations": 1,
+    "year": 2005
+  },
+  {
+    "awards": 1,
+    "name": "WALL-E",
+    "nominations": 6,
+    "year": 2008
+  },
+  {
+    "awards": 0,
+    "name": "Walls of Malapaga, TheThe Walls of Malapaga",
+    "nominations": 0,
+    "year": 1950
+  },
+  {
+    "awards": 1,
+    "name": "War and Peace (Voyna i mir)",
+    "nominations": 2,
+    "year": 1968
+  },
+  {
+    "awards": 1,
+    "name": "War Game, TheThe War Game",
+    "nominations": 1,
+    "year": 1966
+  },
+  {
+    "awards": 1,
+    "name": "War of the Worlds, TheThe War of the Worlds",
+    "nominations": 3,
+    "year": 1953
+  },
+  {
+    "awards": 1,
+    "name": "Wasp",
+    "nominations": 1,
+    "year": 2004
+  },
+  {
+    "awards": 1,
+    "name": "Watch on the Rhine",
+    "nominations": 4,
+    "year": 1943
+  },
+  {
+    "awards": 1,
+    "name": "Water Birds",
+    "nominations": 1,
+    "year": 1952
+  },
+  {
+    "awards": 1,
+    "name": "Way of All Flesh, TheThe Way of All Flesh",
+    "nominations": 1,
+    "year": 1927
+  },
+  {
+    "awards": 2,
+    "name": "Way We Were, TheThe Way We Were",
+    "nominations": 6,
+    "year": 1973
+  },
+  {
+    "awards": 1,
+    "name": "West Bank Story",
+    "nominations": 1,
+    "year": 2006
+  },
+  {
+    "awards": 10,
+    "name": "West Side Story",
+    "nominations": 11,
+    "year": 1961
+  },
+  {
+    "awards": 1,
+    "name": "Westerner, TheThe Westerner",
+    "nominations": 3,
+    "year": 1940
+  },
+  {
+    "awards": 1,
+    "name": "Wetback Hound, TheThe Wetback Hound",
+    "nominations": 1,
+    "year": 1957
+  },
+  {
+    "awards": 1,
+    "name": "What Dreams May Come",
+    "nominations": 2,
+    "year": 1998
+  },
+  {
+    "awards": 1,
+    "name": "What Ever Happened to Baby Jane?",
+    "nominations": 5,
+    "year": 1962
+  },
+  {
+    "awards": 1,
+    "name": "When Tomorrow Comes",
+    "nominations": 1,
+    "year": 1939
+  },
+  {
+    "awards": 1,
+    "name": "When Magoo Flew",
+    "nominations": 1,
+    "year": 1954
+  },
+  {
+    "awards": 1,
+    "name": "When We Were Kings",
+    "nominations": 1,
+    "year": 1996
+  },
+  {
+    "awards": 1,
+    "name": "When Worlds Collide",
+    "nominations": 2,
+    "year": 1951
+  },
+  {
+    "awards": 1,
+    "name": "White Nights",
+    "nominations": 2,
+    "year": 1985
+  },
+  {
+    "awards": 1,
+    "name": "White Shadows in the South Seas",
+    "nominations": 1,
+    "year": 1928
+  },
+  {
+    "awards": 1,
+    "name": "White Wilderness",
+    "nominations": 2,
+    "year": 1958
+  },
+  {
+    "awards": 1,
+    "name": "Who Are the DeBolts? And Where Did They Get Nineteen Kids?",
+    "nominations": 1,
+    "year": 1977
+  },
+  {
+    "awards": 3,
+    "name": "Who Framed Roger Rabbit",
+    "nominations": 6,
+    "year": 1988
+  },
+  {
+    "awards": 5,
+    "name": "Who's Afraid of Virginia Woolf?",
+    "nominations": 13,
+    "year": 1966
+  },
+  {
+    "awards": 1,
+    "name": "Who's Who in Animal Land",
+    "nominations": 1,
+    "year": 1944
+  },
+  {
+    "awards": 1,
+    "name": "Why Korea?",
+    "nominations": 1,
+    "year": 1950
+  },
+  {
+    "awards": 1,
+    "name": "Why Man Creates",
+    "nominations": 1,
+    "year": 1968
+  },
+  {
+    "awards": 1,
+    "name": "Wild Wings",
+    "nominations": 1,
+    "year": 1966
+  },
+  {
+    "awards": 5,
+    "name": "Wilson",
+    "nominations": 10,
+    "year": 1944
+  },
+  {
+    "awards": 2,
+    "name": "Wings",
+    "nominations": 2,
+    "year": 1927
+  },
+  {
+    "awards": 1,
+    "name": "Wings Over Everest",
+    "nominations": 1,
+    "year": 1935
+  },
+  {
+    "awards": 1,
+    "name": "Winnie the Pooh and the Blustery Day",
+    "nominations": 1,
+    "year": 1968
+  },
+  {
+    "awards": 1,
+    "name": "With a Song in My Heart",
+    "nominations": 5,
+    "year": 1952
+  },
+  {
+    "awards": 1,
+    "name": "With Byrd at the South Pole",
+    "nominations": 1,
+    "year": 1929
+  },
+  {
+    "awards": 1,
+    "name": "With the Marines at Tarawa",
+    "nominations": 1,
+    "year": 1944
+  },
+  {
+    "awards": 2,
+    "name": "Witness",
+    "nominations": 8,
+    "year": 1985
+  },
+  {
+    "awards": 1,
+    "name": "Witness to War: Dr. Charlie Clements",
+    "nominations": 1,
+    "year": 1985
+  },
+  {
+    "awards": 2,
+    "name": "Wizard of Oz, TheThe Wizard of Oz",
+    "nominations": 6,
+    "year": 1939
+  },
+  {
+    "awards": 1,
+    "name": "Wolfman, TheThe Wolfman",
+    "nominations": 1,
+    "year": 2010
+  },
+  {
+    "awards": 1,
+    "name": "Woman in Red, TheThe Woman in Red",
+    "nominations": 1,
+    "year": 1984
+  },
+  {
+    "awards": 1,
+    "name": "Woman of the Year",
+    "nominations": 2,
+    "year": 1942
+  },
+  {
+    "awards": 1,
+    "name": "Women \u2013 for America, for the World",
+    "nominations": 1,
+    "year": 1986
+  },
+  {
+    "awards": 1,
+    "name": "Women in Love",
+    "nominations": 4,
+    "year": 1970
+  },
+  {
+    "awards": 1,
+    "name": "Wonder Boys",
+    "nominations": 3,
+    "year": 2000
+  },
+  {
+    "awards": 1,
+    "name": "Wonder Man",
+    "nominations": 4,
+    "year": 1945
+  },
+  {
+    "awards": 1,
+    "name": "Wonderful World of the Brothers Grimm, TheThe Wonderful World of the Brothers Grimm",
+    "nominations": 4,
+    "year": 1962
+  },
+  {
+    "awards": 1,
+    "name": "Woodstock",
+    "nominations": 3,
+    "year": 1970
+  },
+  {
+    "awards": 1,
+    "name": "Work Experience",
+    "nominations": 1,
+    "year": 1989
+  },
+  {
+    "awards": 1,
+    "name": "Working Girl",
+    "nominations": 6,
+    "year": 1988
+  },
+  {
+    "awards": 1,
+    "name": "World of Kids",
+    "nominations": 1,
+    "year": 1951
+  },
+  {
+    "awards": 1,
+    "name": "World Without Sun (Le Monde sans soleil)",
+    "nominations": 1,
+    "year": 1964
+  },
+  {
+    "awards": 1,
+    "name": "Wrestling Swordfish",
+    "nominations": 1,
+    "year": 1931
+  },
+  {
+    "awards": 1,
+    "name": "Written on the Wind",
+    "nominations": 3,
+    "year": 1956
+  },
+  {
+    "awards": 1,
+    "name": "Wrong Trousers, TheThe Wrong Trousers",
+    "nominations": 1,
+    "year": 1993
+  },
+  {
+    "awards": 1,
+    "name": "Wuthering Heights",
+    "nominations": 8,
+    "year": 1939
+  },
+  {
+    "awards": 3,
+    "name": "Yankee Doodle Dandy",
+    "nominations": 8,
+    "year": 1942
+  },
+  {
+    "awards": 1,
+    "name": "Yankee Doodle Mouse, TheThe Yankee Doodle Mouse",
+    "nominations": 1,
+    "year": 1943
+  },
+  {
+    "awards": 1,
+    "name": "Year of Living Dangerously, TheThe Year of Living Dangerously",
+    "nominations": 1,
+    "year": 1983
+  },
+  {
+    "awards": 1,
+    "name": "Year Toward Tomorrow, AA Year Toward Tomorrow",
+    "nominations": 1,
+    "year": 1966
+  },
+  {
+    "awards": 2,
+    "name": "Yearling, TheThe Yearling",
+    "nominations": 7,
+    "year": 1946
+  },
+  {
+    "awards": 1,
+    "name": "Yentl",
+    "nominations": 5,
+    "year": 1983
+  },
+  {
+    "awards": 1,
+    "name": "Yesterday, Today and Tomorrow (Ieri, oggi, domani)",
+    "nominations": 1,
+    "year": 1964
+  },
+  {
+    "awards": 2,
+    "name": "You Can't Take It with You",
+    "nominations": 7,
+    "year": 1938
+  },
+  {
+    "awards": 1,
+    "name": "You Don't Have to Die",
+    "nominations": 1,
+    "year": 1988
+  },
+  {
+    "awards": 1,
+    "name": "You Light Up My Life",
+    "nominations": 1,
+    "year": 1977
+  },
+  {
+    "awards": 1,
+    "name": "Young at Heart",
+    "nominations": 1,
+    "year": 1987
+  },
+  {
+    "awards": 1,
+    "name": "Young Victoria, TheThe Young Victoria",
+    "nominations": 3,
+    "year": 2009
+  },
+  {
+    "awards": 2,
+    "name": "Z",
+    "nominations": 5,
+    "year": 1969
+  },
+  {
+    "awards": 1,
+    "name": "Zero Dark Thirty",
+    "nominations": 5,
+    "year": 2012
+  },
+  {
+    "awards": 3,
+    "name": "Zorba the Greek (Alexis Zorbas)",
+    "nominations": 7,
+    "year": 1964
+  }
+]
