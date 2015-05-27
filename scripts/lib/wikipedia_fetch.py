@@ -12,7 +12,7 @@ def get_page_table(url):
 
 def get_location(name, file_extension):
     parent_path = os.path.abspath(os.path.abspath(os.curdir))
-    file_name = "%s.%s" % (name, file_extension)
+    file_name = "%s/%s.%s" % ('data', name, file_extension)
     return os.path.join(parent_path, file_name)
 
 def save_to_json(data, name):
