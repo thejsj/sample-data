@@ -16,6 +16,16 @@ r.table('countries')
  .insert(r.json(r.http('https://raw.githubusercontent.com/thejsj/sample-data/master/data/countries.json')))
 ```
 
+*CIA Factbook*
+
+```
+// Create Table
+r.tableCreate('cia-factbook')
+// Insert data from JSON files
+r.table('cia-factbook')
+ .insert(r.json(r.http('https://raw.githubusercontent.com/thejsj/sample-data/master/data/cia-countries.json')))
+```
+
 *Oscar Winning Films*
 ```
 // Create table
@@ -43,5 +53,6 @@ pip install
 python countries.py
 python oscar-winning-films.py
 python urban-areas.py
+python cia-factbook.py
 ```
 
